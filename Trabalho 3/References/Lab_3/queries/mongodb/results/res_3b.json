@@ -1,0 +1,20 @@
+{ 
+    "_id" : "Alentejo", 
+    "count" : 43.0
+}
+{ 
+    "_id" : "Algarve", 
+    "count" : 1.0
+}
+{ 
+    "_id" : "Centro", 
+    "count" : 11.0
+}
+{ 
+    "_id" : "Lisboa", 
+    "count" : 6.0
+}
+{ 
+    "_id" : "Norte", 
+    "count" : 3.0
+}

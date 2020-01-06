@@ -1,0 +1,47 @@
+UCs Collection
+
+{
+    codigo,
+    designacao,
+    sigla_uc,
+    curso,
+    ocorrencias: [
+        {
+            ano_letivo,
+            periodo,
+            inscritos,
+            com_frequencia,
+            aprovados,
+            objetivos,
+            conteudo,
+            departamento,
+            tiposaula: [
+                {   
+                    id,
+                    tipo,
+                    turnos,
+                    n_aulas,
+                    horas_turno
+                }
+            ]
+        }
+    ]
+}
+
+Docentes Collection
+
+{
+    nr,
+    nome,
+    sigla,
+    categoria,
+    proprio,
+    apelido,
+    estado,
+    dsd: [
+        id,
+        horas,
+        fator,
+        ordem
+    ]
+}

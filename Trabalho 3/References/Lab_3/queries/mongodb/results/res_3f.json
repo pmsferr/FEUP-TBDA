@@ -1,0 +1,330 @@
+{ 
+    "_id" : "Albufeira", 
+    "facilities" : [
+        {
+            "NAME" : "AUDITÓRIO DA CÂMARA MUNICIPAL DE ALBUFEIRA", 
+            "CAPACITY" : "368", 
+            "ROOMTYPE" : "Auditório", 
+            "ADDRESS" : "RUA DO MUNICÍPIO, CERRO DA ALAGOA"
+        }, 
+        {
+            "NAME" : "CINE PLACE ALGARVE SHOPPING - SALA 1", 
+            "CAPACITY" : "114", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL ALGARVESHOPPING - GUIA"
+        }, 
+        {
+            "NAME" : "CINE PLACE ALGARVE SHOPPING - SALA 2", 
+            "CAPACITY" : "185", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL ALGARVESHOPPING - GUIA"
+        }, 
+        {
+            "NAME" : "CINE PLACE ALGARVE SHOPPING - SALA 3", 
+            "CAPACITY" : "89", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL ALGARVESHOPPING - GUIA"
+        }, 
+        {
+            "NAME" : "CINE PLACE ALGARVE SHOPPING - SALA 4", 
+            "CAPACITY" : "102", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL ALGARVESHOPPING - GUIA"
+        }, 
+        {
+            "NAME" : "CINE PLACE ALGARVE SHOPPING - SALA 5", 
+            "CAPACITY" : "83", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL ALGARVESHOPPING - GUIA"
+        }, 
+        {
+            "NAME" : "CINE PLACE ALGARVE SHOPPING - SALA 6", 
+            "CAPACITY" : "126", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL ALGARVESHOPPING - GUIA"
+        }, 
+        {
+            "NAME" : "CINE PLACE ALGARVE SHOPPING - SALA 7", 
+            "CAPACITY" : "142", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL ALGARVESHOPPING - GUIA"
+        }, 
+        {
+            "NAME" : "CINE PLACE ALGARVE SHOPPING - SALA 8", 
+            "CAPACITY" : "156", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL ALGARVESHOPPING - GUIA"
+        }, 
+        {
+            "NAME" : "CINE PLACE ALGARVE SHOPPING - SALA 9", 
+            "CAPACITY" : "114", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL ALGARVESHOPPING - GUIA"
+        }
+    ]
+}
+{ 
+    "_id" : "Faro", 
+    "facilities" : [
+        {
+            "NAME" : "AUDITÓRIO INSTITUTO PORTUGUÊS DA JUVENTUDE (FARO)", 
+            "CAPACITY" : "135", 
+            "ROOMTYPE" : "Auditório", 
+            "ADDRESS" : "RUA DA P.S.P."
+        }, 
+        {
+            "NAME" : "CINEMA OSSONOBA", 
+            "CAPACITY" : "200", 
+            "ROOMTYPE" : "Auditório", 
+            "ADDRESS" : "ESTOI"
+        }, 
+        {
+            "NAME" : "COMPLEXO DE CINEMAS FORUM ALGARVE - SALA 1", 
+            "CAPACITY" : "150", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "SÍTIO DA MÁ VONTADE"
+        }, 
+        {
+            "NAME" : "COMPLEXO DE CINEMAS FORUM ALGARVE - SALA 2", 
+            "CAPACITY" : "114", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "SÍTIO DA MÁ VONTADE"
+        }, 
+        {
+            "NAME" : "COMPLEXO DE CINEMAS FORUM ALGARVE - SALA 3", 
+            "CAPACITY" : "193", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "SÍTIO DA MÁ VONTADE"
+        }, 
+        {
+            "NAME" : "COMPLEXO DE CINEMAS FORUM ALGARVE - SALA 4", 
+            "CAPACITY" : "193", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "SÍTIO DA MÁ VONTADE"
+        }, 
+        {
+            "NAME" : "COMPLEXO DE CINEMAS FORUM ALGARVE - SALA 5", 
+            "CAPACITY" : "302", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "SÍTIO DA MÁ VONTADE"
+        }, 
+        {
+            "NAME" : "TEATRO MUNICIPAL DE FARO / TEATRO DAS FIGURAS", 
+            "CAPACITY" : "794", 
+            "ROOMTYPE" : "Teatro", 
+            "ADDRESS" : "EN 125  HORTA DAS FIGURAS"
+        }
+    ]
+}
+{ 
+    "_id" : "Lagoa", 
+    "facilities" : [
+        {
+            "NAME" : "AUDITÓRIO MUNICIPAL DE LAGOA", 
+            "CAPACITY" : "298", 
+            "ROOMTYPE" : "Auditório", 
+            "ADDRESS" : "RUA DO CENTRO DE SAÚDE"
+        }
+    ]
+}
+{ 
+    "_id" : "Lagos", 
+    "facilities" : [
+        {
+            "NAME" : "CINEMA LAGOSHOPPING - SALA 1", 
+            "CAPACITY" : "346", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "RUA CÂNDIDO DOS REIS"
+        }, 
+        {
+            "NAME" : "CINEMA LAGOSHOPPING - SALA 2", 
+            "CAPACITY" : "94", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "RUA CÂNDIDO DOS REIS"
+        }
+    ]
+}
+{ 
+    "_id" : "Loulé", 
+    "facilities" : [
+        {
+            "NAME" : "CINE TEATRO LOULETANO", 
+            "CAPACITY" : "345", 
+            "ROOMTYPE" : "Cine-Teatro", 
+            "ADDRESS" : "AV JOSÉ DA COSTA MEALHA"
+        }
+    ]
+}
+{ 
+    "_id" : "Olhão", 
+    "facilities" : [
+        {
+            "NAME" : "AUDITÓRIO MUNICIPAL DE OLHÃO", 
+            "CAPACITY" : "420", 
+            "ROOMTYPE" : "Auditório", 
+            "ADDRESS" : "RUA DIOGO DE MENDONÇA CORTE REAL"
+        }, 
+        {
+            "NAME" : "CINEMAS RIA SHOPPING - SALA 1", 
+            "CAPACITY" : "68", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL E. N. 125, Nº. 100 - OLHÃO"
+        }, 
+        {
+            "NAME" : "CINEMAS RIA SHOPPING - SALA 2", 
+            "CAPACITY" : "61", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL E.N. 125, Nº. 100 - OLHÃO"
+        }, 
+        {
+            "NAME" : "CINEMAS RIA SHOPPING - SALA 3", 
+            "CAPACITY" : "52", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL E.N. 125, Nº. 100 - OLHÃO"
+        }
+    ]
+}
+{ 
+    "_id" : "Portimão", 
+    "facilities" : [
+        {
+            "NAME" : "AUDITÓRIO DO MUSEU MUNICIPAL DE PORTIMÃO", 
+            "CAPACITY" : "174", 
+            "ROOMTYPE" : "Auditório", 
+            "ADDRESS" : "ANTIGA FÁBRICA DO FEU - ESTRADA DA ROCHA"
+        }, 
+        {
+            "NAME" : "CINEPLACE CONTINENTE DE PORTIMÃO - SALA 1", 
+            "CAPACITY" : "181", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL CONTINENTE"
+        }, 
+        {
+            "NAME" : "CINEPLACE CONTINENTE DE PORTIMÃO - SALA 2", 
+            "CAPACITY" : "126", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL CONTINENTE"
+        }, 
+        {
+            "NAME" : "CINEPLACE CONTINENTE DE PORTIMÃO - SALA 3", 
+            "CAPACITY" : "111", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL CONTINENTE"
+        }, 
+        {
+            "NAME" : "CINEPLACE CONTINENTE DE PORTIMÃO - SALA 4", 
+            "CAPACITY" : "111", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL CONTINENTE"
+        }, 
+        {
+            "NAME" : "CINEPLACE CONTINENTE DE PORTIMÃO - SALA 5", 
+            "CAPACITY" : "126", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL CONTINENTE"
+        }, 
+        {
+            "NAME" : "CINEPLACE CONTINENTE DE PORTIMÃO - SALA 6", 
+            "CAPACITY" : "181", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "CENTRO COMERCIAL CONTINENTE"
+        }, 
+        {
+            "NAME" : "GRANDE AUDITÓRIO NUNO MERGULHÃO DO TEMPO", 
+            "CAPACITY" : "458", 
+            "ROOMTYPE" : "Auditório", 
+            "ADDRESS" : "LARGO  1º DEZEMBRO"
+        }, 
+        {
+            "NAME" : "PEQUENO AUDITÓRIO DO TEMPO", 
+            "CAPACITY" : "165", 
+            "ROOMTYPE" : "Auditório", 
+            "ADDRESS" : "LARGO  1º DEZEMBRO"
+        }
+    ]
+}
+{ 
+    "_id" : "Silves", 
+    "facilities" : [
+        {
+            "NAME" : "TEATRO GREGÓRIO MASCARENHAS - SALA PRINCIPAL", 
+            "CAPACITY" : "168", 
+            "ROOMTYPE" : "Teatro", 
+            "ADDRESS" : "RUA CÂNDIDO DOS REIS"
+        }
+    ]
+}
+{ 
+    "_id" : "São Brás de Alportel", 
+    "facilities" : [
+        {
+            "NAME" : "CINE TEATRO DE S BRÁS DE ALPORTEL", 
+            "CAPACITY" : "342", 
+            "ROOMTYPE" : "Cine-Teatro", 
+            "ADDRESS" : "AVENIDA DA LIBERDADE,  Nºs.  22 - 24"
+        }
+    ]
+}
+{ 
+    "_id" : "Tavira", 
+    "facilities" : [
+        {
+            "NAME" : "CINE TEATRO ANTÓNIO PINHEIRO", 
+            "CAPACITY" : "400", 
+            "ROOMTYPE" : "Cine-Teatro", 
+            "ADDRESS" : "R D MARCELINO FRANCO 10"
+        }, 
+        {
+            "NAME" : "CINEMA GRAN PLAZA - SALA 1", 
+            "CAPACITY" : "196", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "RUA ALMIRANTE CÂNDIDO DOS REIS - TAVIRA"
+        }, 
+        {
+            "NAME" : "CINEMA GRAN PLAZA - SALA 2", 
+            "CAPACITY" : "141", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "RUA ALMIRANTE CÂNDIDO DOS REIS - TAVIRA"
+        }, 
+        {
+            "NAME" : "CINEMA GRAN PLAZA - SALA 3", 
+            "CAPACITY" : "141", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "RUA ALMIRANTE CÂNDIDO DOS REIS - TAVIRA"
+        }, 
+        {
+            "NAME" : "CINEMA GRAN PLAZA - SALA 4", 
+            "CAPACITY" : "141", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "RUA ALMIRANTE CÂNDIDO DOS REIS - TAVIRA"
+        }, 
+        {
+            "NAME" : "CINEMA GRAN PLAZA - SALA 5", 
+            "CAPACITY" : "140", 
+            "ROOMTYPE" : "Cinema", 
+            "ADDRESS" : "RUA ALMIRANTE CÂNDIDO DOS REIS - TAVIRA"
+        }
+    ]
+}
+{ 
+    "_id" : "Vila Real Sto Antonio", 
+    "facilities" : [
+        {
+            "NAME" : "CINEMA DO GLÓRIA FUTEBOL CLUBE", 
+            "CAPACITY" : "175", 
+            "ROOMTYPE" : "Cinema isolado", 
+            "ADDRESS" : "RUA DOM PEDRO V, Nº. 47"
+        }
+    ]
+}
+{ 
+    "_id" : "Vila do Bispo", 
+    "facilities" : [
+        {
+            "NAME" : "AUDITÓRIO DO CENTRO CULTURAL DE VILA DO BISPO", 
+            "CAPACITY" : "188", 
+            "ROOMTYPE" : "Outras salas de espetáculo", 
+            "ADDRESS" : "LG DA CÂMARA MUNICIPAL"
+        }
+    ]
+}

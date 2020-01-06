@@ -1,0 +1,941 @@
+[
+{"nr":200358,"nome":"José António Ribera Salcedo","sigla":"JRS","categoria":107,"proprio":"José","apelido":"Ribera Salcedo","estado":"NA"}
+,{"nr":201014,"nome":"José Manuel da Costa Brochado de Oliveira","sigla":"JMCBO","categoria":19999,"proprio":"José Manuel","apelido":"Oliveira","estado":"NA"}
+,{"nr":201395,"nome":"Duarte José Vasconcelos da Costa Pereira","sigla":"DCP","categoria":19999,"proprio":"Duarte","apelido":"Pereira","estado":"A"}
+,{"nr":202068,"nome":"Isabel Salgado Labouriau","sigla":"ISL","categoria":19999,"proprio":"Isabel","apelido":"Labouriau","estado":"A"}
+,{"nr":202604,"nome":"Nuno Eduardo Malheiro Magalhães Esteves Formigo","sigla":"NEMMEF","categoria":19999,"proprio":"Nuno","apelido":"Formigo","estado":"A"}
+,{"nr":203773,"nome":"Pedro Baltazar Vasconcelos","sigla":"PBV","categoria":119,"proprio":"Pedro","apelido":"Vasconcelos","estado":"NA"}
+,{"nr":204170,"nome":"Maria Isabel Rebelo Teixeira Soares","sigla":"MIRTS","categoria":19999,"proprio":"Maria Isabel","apelido":"Soares","estado":"A"}
+,{"nr":204347,"nome":"Pavel Bernard Brazdil","sigla":"PB","categoria":19999,"proprio":"Pavel","apelido":"Brazdil","estado":"NA"}
+,{"nr":204619,"nome":"Carlos Henrique Figueiredo e Melo de Brito","sigla":"CHFMB","categoria":19999,"proprio":"Carlos","apelido":"Brito","estado":"A"}
+,{"nr":204763,"nome":"Helder Manuel Valente da Silva","sigla":"HMVS","categoria":19999,"proprio":"Helder","apelido":"Silva","estado":"NA"}
+,{"nr":205320,"nome":"Helena Maria de Azevedo Coelho dos Santos","sigla":"HMACS","categoria":19997,"proprio":"Helena","apelido":"Santos","estado":"A"}
+,{"nr":205489,"nome":"João Manuel Portela da Gama","sigla":"JMPG1","categoria":19999,"proprio":"João","apelido":"Gama","estado":"NA"}
+,{"nr":205593,"nome":"Fernanda Otília de Sousa Figueiredo","sigla":"FOSF","categoria":19999,"proprio":"Fernanda","apelido":"Figueiredo","estado":"A"}
+,{"nr":205692,"nome":"Luís Fernando Rainho Alves Torgo","sigla":"LFRAT","categoria":19999,"proprio":"Luís ","apelido":"Torgo","estado":"NA"}
+,{"nr":206105,"nome":"José António Simões Cortez","sigla":"JSC","categoria":107,"proprio":"Simões","apelido":"Cortez","estado":"NA"}
+,{"nr":206112,"nome":"Horácio da Maia Ferreira e Costa","sigla":"HMC","categoria":107,"proprio":"Horácio","apelido":"Maia e Costa","estado":"R"}
+,{"nr":206123,"nome":"Joaquim da Conceição Sampaio","sigla":"JCS","categoria":107,"proprio":"Joaquim","apelido":"Sampaio","estado":"NA"}
+,{"nr":206134,"nome":"Aristides Guedes Coelho","sigla":"AGC","categoria":107,"proprio":"Aristides","apelido":"Coelho","estado":"NA"}
+,{"nr":206141,"nome":"Arnaldo Humberto Pereira de Sousa Melo","sigla":"ASM","categoria":107,"proprio":"Arnaldo","apelido":"Melo","estado":"R"}
+,{"nr":206178,"nome":"Manuel Jazelino Portela Vieira da Costa","sigla":"MJC","categoria":107,"proprio":"Manuel","apelido":"Jazelino Costa","estado":"NA"}
+,{"nr":206189,"nome":"António Almeida do Vale","sigla":"AAV","categoria":107,"proprio":"Almeida","apelido":"do Vale","estado":"R"}
+,{"nr":206196,"nome":"Augusto Eduardo Guimarães de Medina","sigla":"AGM","categoria":107,"proprio":"Augusto","apelido":"Medina","estado":"A"}
+,{"nr":206204,"nome":"Eduardo Guimarães Oliveira Fernandes","sigla":"EOF","categoria":107,"proprio":"Eduardo","apelido":"Oliveira Fernandes","estado":"A"}
+,{"nr":206211,"nome":"Conceição de Jesus Gomez Gonzalez Beça","sigla":"CGB","categoria":107,"proprio":"Conceição","apelido":"Beça","estado":"NA"}
+,{"nr":206220,"nome":"José Luís Cabral da Conceição Figueiredo","sigla":"JLF","categoria":107,"proprio":"José","apelido":"Luis Figueiredo","estado":"A"}
+,{"nr":206237,"nome":"Alírio Egídio Rodrigues","sigla":"AER","categoria":107,"proprio":"Alírio","apelido":"Rodrigues","estado":"A"}
+,{"nr":206248,"nome":"João Rui Ferreira Guedes de Carvalho","sigla":"JRGC","categoria":107,"proprio":"J.R.F.","apelido":"Guedes de Carvalho","estado":"A"}
+,{"nr":206259,"nome":"Carlos Manuel Novais Madureira","sigla":"CNM","categoria":107,"proprio":"Carlos","apelido":"Novais Madureira","estado":"R"}
+,{"nr":206266,"nome":"Raul Alberto de Oliveira Pinheiro Torres","sigla":"RPT","categoria":110,"proprio":"Raul","apelido":"Pinheiro Torres","estado":"NA"}
+,{"nr":206275,"nome":"Cláudio Enrique Sunkel Cariola","sigla":"CS","categoria":19999,"proprio":"Cláudio","apelido":"Cariola","estado":"A"}
+,{"nr":206282,"nome":"António Pinto Barbedo de Magalhães","sigla":"ABM","categoria":107,"proprio":"Barbedo","apelido":"Magalhães","estado":"A"}
+,{"nr":206293,"nome":"José António Restivo Sarmento","sigla":"JRS","categoria":110,"proprio":"José","apelido":"Restivo Sarmento","estado":"NA"}
+,{"nr":206307,"nome":"Francisco Lopes da Silva","sigla":"FLS","categoria":110,"proprio":"Francisco","apelido":"Lopes Silva","estado":"NA"}
+,{"nr":206318,"nome":"Rogério Augusto Fernandes Martins","sigla":"RAM","categoria":107,"proprio":"Rogério","apelido":"Martins","estado":"R"}
+,{"nr":206329,"nome":"Joaquim Francisco da Silva Gomes","sigla":"JSG","categoria":107,"proprio":"Joaquim","apelido":"Silva Gomes","estado":"A"}
+,{"nr":206336,"nome":"António Augusto Fernandes","sigla":"AAF","categoria":107,"proprio":"Augusto","apelido":"Fernandes","estado":"A"}
+,{"nr":206352,"nome":"Lúcia Maria de Jesus Simas Dinis","sigla":"LMD","categoria":110,"proprio":"Lúcia","apelido":"Maria Dinis","estado":"A"}
+,{"nr":206374,"nome":"António Maria Lopes da Rocha Quintas","sigla":"ARQ","categoria":110,"proprio":"António","apelido":"Quintas","estado":"R"}
+,{"nr":206381,"nome":"Jorge Leite Martins de Carvalho","sigla":"JMC","categoria":107,"proprio":"Jorge","apelido":"Martins de Carvalho","estado":"A"}
+,{"nr":206390,"nome":"Carlos Alberto Costa Mendonça e Moura","sigla":"CMM","categoria":110,"proprio":"Carlos","apelido":"Mendonça Moura","estado":"A"}
+,{"nr":206415,"nome":"Raul Fernando de Almeida Moreira Vidal","sigla":"RMV","categoria":110,"proprio":"Raul","apelido":"Moreira Vidal","estado":"A"}
+,{"nr":207063,"nome":"Joaquim Pontes Marques de Sá","sigla":"JMSA","categoria":107,"proprio":"Joaquim","apelido":"Marques de Sá","estado":"R"}
+,{"nr":207104,"nome":"João Lopes Porto","sigla":"JLP","categoria":111,"proprio":"João","apelido":"Lopes Porto","estado":"A"}
+,{"nr":207122,"nome":"Luís Filipe Malheiros de Freitas Ferreira","sigla":"LFM","categoria":107,"proprio":"Luís","apelido":"Filipe Malheiros","estado":"A"}
+,{"nr":207133,"nome":"Jorge Manuel Pinho de Sousa","sigla":"JPS","categoria":110,"proprio":"Jorge","apelido":"Pinho de Sousa","estado":"A"}
+,{"nr":207140,"nome":"João António Pereira de Carvalho Bastos","sigla":"JCB","categoria":116,"proprio":"João","apelido":"Bastos","estado":"A"}
+,{"nr":207166,"nome":"António Manuel Adão da Fonseca","sigla":"AAF","categoria":107,"proprio":"António","apelido":"Adão da Fonseca","estado":"A"}
+,{"nr":207177,"nome":"Ana Maria Quintela da Silva Proença Correia de Queirós","sigla":"AMP","categoria":117,"proprio":"Ana Maria","apelido":"Proença","estado":"A"}
+,{"nr":207188,"nome":"Joaquim de Azevedo Figueiras","sigla":"JF","categoria":107,"proprio":"Joaquim","apelido":"Figueiras","estado":"A"}
+,{"nr":207195,"nome":"Raimundo Moreno Delgado","sigla":"RD","categoria":107,"proprio":"Raimundo","apelido":"Delgado","estado":"A"}
+,{"nr":207203,"nome":"Vitor Carlos Trindade Abrantes Almeida","sigla":"VAA","categoria":107,"proprio":"Vitor","apelido":"Abrantes Almeida","estado":"A"}
+,{"nr":207210,"nome":"Manuel Carlos de Azeredo e Melo","sigla":"MA","categoria":107,"proprio":"Manuel de","apelido":"Azeredo","estado":"NA"}
+,{"nr":207229,"nome":"Afonso António de Serra Neves","sigla":"ASN","categoria":110,"proprio":"Afonso","apelido":"Serra Neves","estado":"A"}
+,{"nr":207236,"nome":"Alberto Mário Vasconcelos Tavares Moreira","sigla":"ATM","categoria":116,"proprio":"Alberto","apelido":"Tavares Moreira","estado":"A"}
+,{"nr":207258,"nome":"José António Soeiro Ferreira","sigla":"JSF","categoria":110,"proprio":"José","apelido":"Soeiro Ferreira","estado":"A"}
+,{"nr":207265,"nome":"Ana Maria Ferreira Alves Faustino","sigla":"AMF","categoria":116,"proprio":"Ana Maria","apelido":"Faustino","estado":"A"}
+,{"nr":207281,"nome":"Joaquim Manuel Veloso Poças Martins","sigla":"JPM","categoria":110,"proprio":"Joaquim","apelido":"Poças Martins","estado":"A"}
+,{"nr":207306,"nome":"José Manuel Mota Couto Marques","sigla":"JCM","categoria":110,"proprio":"José","apelido":"Couto Marques","estado":"A"}
+,{"nr":207317,"nome":"Adalberto Quelhas da Silva França","sigla":"AQF","categoria":110,"proprio":"Adalberto","apelido":"França","estado":"A"}
+,{"nr":207328,"nome":"Ana Maria Magalhães Ribeiro Sarmento Teixeira de Bastos","sigla":"AMS","categoria":116,"proprio":"Ana","apelido":"Teixeira Bastos","estado":"A"}
+,{"nr":207335,"nome":"António Manuel Barbot Campos e Matos","sigla":"ACM","categoria":116,"proprio":"António","apelido":"Campos e Matos","estado":"A"}
+,{"nr":207344,"nome":"Aníbal Guimarães da Costa","sigla":"AGC","categoria":19997,"proprio":"Aníbal","apelido":"Costa","estado":"NA"}
+,{"nr":207351,"nome":"Alfredo Augusto Vieira Soeiro","sigla":"AVS","categoria":110,"proprio":"Alfredo","apelido":"Soeiro","estado":"A"}
+,{"nr":207362,"nome":"Manuel António de Matos Fernandes","sigla":"MMF","categoria":107,"proprio":"Manuel","apelido":"Matos Fernandes","estado":"A"}
+,{"nr":207373,"nome":"Francisco José Lage Campelo Calheiros","sigla":"FCC","categoria":110,"proprio":"Francisco","apelido":"Calheiros","estado":"A"}
+,{"nr":207380,"nome":"António José de Magalhães Silva Cardoso","sigla":"ASC","categoria":107,"proprio":"António","apelido":"Silva Cardoso","estado":"A"}
+,{"nr":207399,"nome":"Eurico Manuel Elias Morais Carrapatoso","sigla":"EMC","categoria":116,"proprio":"Eurico","apelido":"Carrapatoso","estado":"A"}
+,{"nr":207414,"nome":"Rodrigo Jorge Fonseca de Oliveira Maia","sigla":"ROM","categoria":110,"proprio":"Rodrigo","apelido":"Maia","estado":"A"}
+,{"nr":207421,"nome":"Celso Manuel Relva Martins de Lima","sigla":"CRL","categoria":117,"proprio":"Celso","apelido":"Lima","estado":"A"}
+,{"nr":207432,"nome":"José de Oliveira e Silva","sigla":"JOS","categoria":119,"proprio":"José","apelido":"de Oliveira e Silva","estado":"NA"}
+,{"nr":207443,"nome":"Manuel Jorge de Castro Pimentel e Sepúlveda","sigla":"MJS","categoria":119,"proprio":"Manuel","apelido":"Jorge Sepúlveda","estado":"NA"}
+,{"nr":207450,"nome":"Manuel Maria Basílio Pinho de Miranda","sigla":"MPM","categoria":111,"proprio":"Manuel","apelido":"Pinho Miranda","estado":"A"}
+,{"nr":207469,"nome":"Domingos Manuel Ribeiro da Silva de Matos","sigla":"DSM","categoria":111,"proprio":"Domingos","apelido":"Matos","estado":"A"}
+,{"nr":207476,"nome":"Álvaro Alberto de Matos Ferreira da Cunha","sigla":"AMC","categoria":107,"proprio":"Álvaro","apelido":"Cunha","estado":"A"}
+,{"nr":207487,"nome":"Artur Ribeiro dos Santos","sigla":"ARS","categoria":117,"proprio":"Artur","apelido":"Santos","estado":"NA"}
+,{"nr":207498,"nome":"Manuel Eduardo de Carvalho Alves Ribeiro","sigla":"MAR","categoria":119,"proprio":"Manuel","apelido":"Alves Ribeiro","estado":"NA"}
+,{"nr":207513,"nome":"Ana Paula Simões Costa","sigla":"APSC","categoria":119,"proprio":"Ana","apelido":"Paula Costa","estado":"NA"}
+,{"nr":207520,"nome":"João Manuel Pires Macedo","sigla":"JM","categoria":117,"proprio":"João","apelido":"Macedo","estado":"A"}
+,{"nr":207539,"nome":"Maria Joana Álvares Ribeiro de Sousa Coutinho","sigla":"JSC","categoria":116,"proprio":"Joana","apelido":"Sousa Coutinho","estado":"A"}
+,{"nr":207546,"nome":"Jorge Manuel Fachana Moreira da Costa","sigla":"JMC","categoria":110,"proprio":"Jorge","apelido":"Moreira da Costa","estado":"A"}
+,{"nr":207557,"nome":"Carlos Manuel Rodrigues","sigla":"CMR","categoria":116,"proprio":"Carlos","apelido":"Rodrigues","estado":"A"}
+,{"nr":207575,"nome":"Álvaro Ferreira Marques Azevedo","sigla":"AMA","categoria":116,"proprio":"Álvaro","apelido":"Azevedo","estado":"A"}
+,{"nr":207584,"nome":"Vasco Manuel Araújo Peixoto de Freitas","sigla":"VPF","categoria":107,"proprio":"Vasco","apelido":"Freitas","estado":"A"}
+,{"nr":207591,"nome":"José Manuel Marques Amorim de Araújo Faria","sigla":"JAF","categoria":116,"proprio":"José","apelido":"Amorim Faria","estado":"A"}
+,{"nr":207609,"nome":"Américo Henrique Pires da Costa","sigla":"APC","categoria":110,"proprio":"Américo","apelido":"Pires Costa","estado":"A"}
+,{"nr":207616,"nome":"Jorge Manuel Térrio Meirinhos","sigla":"JTM","categoria":119,"proprio":"Jorge","apelido":"Térrio Meirinhos","estado":"NA"}
+,{"nr":207627,"nome":"José Manuel Pinto Ferreira Lemos","sigla":"JFL","categoria":107,"proprio":"José Manuel","apelido":"Pinto Ferreira Lemos","estado":"A"}
+,{"nr":207638,"nome":"Fernando Francisco Machado Veloso Gomes","sigla":"FVG","categoria":107,"proprio":"Fernando","apelido":"Veloso Gomes","estado":"A"}
+,{"nr":207645,"nome":"José Carlos Tentúgal Valente","sigla":"JTV","categoria":110,"proprio":"José","apelido":"Tentúgal Valente","estado":"A"}
+,{"nr":207654,"nome":"Cheng Chia-Yau","sigla":"CYC","categoria":117,"proprio":"Cheng","apelido":"Chia-Yau","estado":"A"}
+,{"nr":207661,"nome":"Maria Teresa de Carvalho Dias Lopes Gomes Tomás","sigla":"MTT","categoria":116,"proprio":"Maria","apelido":"Teresa Tomás","estado":"R"}
+,{"nr":207672,"nome":"Mário Jorge Valente Neves","sigla":"MVN","categoria":110,"proprio":"Mário","apelido":"Valente Neves","estado":"A"}
+,{"nr":207683,"nome":"Rui Manuel Meneses Carneiro de Barros","sigla":"RCB","categoria":110,"proprio":"Rui","apelido":"Carneiro de Barros","estado":"A"}
+,{"nr":207690,"nome":"Henrique Manuel Cunha Martins dos Santos","sigla":"HS","categoria":107,"proprio":"Henrique","apelido":"Santos","estado":"A"}
+,{"nr":207708,"nome":"Henrique Sérgio Botelho de Miranda","sigla":"HBM","categoria":110,"proprio":"Henrique","apelido":"Botelho de Miranda","estado":"A"}
+,{"nr":207715,"nome":"Mário Rui Machado Leite","sigla":"MML","categoria":107,"proprio":"Mário","apelido":"Machado Leite","estado":"A"}
+,{"nr":207724,"nome":"José Roberto Tinoco Cavalheiro","sigla":"JTC","categoria":110,"proprio":"José","apelido":"Tinoco Cavalheiro","estado":"A"}
+,{"nr":207731,"nome":"Manuel Afonso Magalhães da Fonseca Almeida","sigla":"MFA","categoria":110,"proprio":"Manuel","apelido":"Fonseca Almeida","estado":"A"}
+,{"nr":207742,"nome":"José Augusto Coelho da Rocha e Silva","sigla":"JCR","categoria":110,"proprio":"José","apelido":"Rocha Silva","estado":"A"}
+,{"nr":207753,"nome":"João José Ramalho Carvalho","sigla":"JRC","categoria":117,"proprio":"João","apelido":"Ramalho Carvalho","estado":"A"}
+,{"nr":207760,"nome":"Abílio Augusto Tinoco Cavalheiro","sigla":"acav","categoria":107,"proprio":"Abílio","apelido":"Cavalheiro","estado":"A"}
+,{"nr":207779,"nome":"Fernando Jorge Mendes Monteiro","sigla":"FMM","categoria":107,"proprio":"Fernando","apelido":"Mendes Monteiro","estado":"A"}
+,{"nr":207797,"nome":"Gilda Maria Oliveira Rodrigues Moreira Pimenta","sigla":"GOP","categoria":122,"proprio":"Gilda","apelido":"Pimenta","estado":"NA"}
+,{"nr":207801,"nome":"Henrique Fernandes Tomás Veiga","sigla":"HTV","categoria":119,"proprio":"Henrique","apelido":"Tomás Veiga","estado":"NA"}
+,{"nr":207812,"nome":"António Acácio Couto Jorge Lima","sigla":"AL","categoria":117,"proprio":"Acácio","apelido":"Lima","estado":"A"}
+,{"nr":207823,"nome":"Ernesto Duarte Silva","sigla":"EDS","categoria":116,"proprio":"Ernesto","apelido":"Silva","estado":"NA"}
+,{"nr":207830,"nome":"Joaquim Ferreira Guedes","sigla":"JFG","categoria":120,"proprio":"Joaquim","apelido":"Guedes","estado":"A"}
+,{"nr":207849,"nome":"Maria Manuela Almeida Amarante","sigla":"MMA","categoria":120,"proprio":"Maria","apelido":"Manuela Amarante","estado":"A"}
+,{"nr":207856,"nome":"João Gonçalves de Oliveira Neves","sigla":"JON","categoria":117,"proprio":"João","apelido":"Oliveira Neves","estado":"A"}
+,{"nr":207878,"nome":"Carlos Alberto Silva Ribeiro","sigla":"CSR","categoria":110,"proprio":"Carlos","apelido":"Silva Ribeiro","estado":"A"}
+,{"nr":207894,"nome":"Filomena Maria da Conceição Viana","sigla":"FMV","categoria":116,"proprio":"Filomena","apelido":"Viana","estado":"A"}
+,{"nr":207900,"nome":"Paulo Manuel Salgado Tavares de Castro","sigla":"PTC","categoria":107,"proprio":"Paulo","apelido":"Tavares de Castro","estado":"A"}
+,{"nr":207919,"nome":"Viriato Teixeira de Abreu e Antunes","sigla":"VAA","categoria":110,"proprio":"Viriato","apelido":"Antunes","estado":"A"}
+,{"nr":207926,"nome":"Bernardo José Calafate de Vasconcelos","sigla":"BCV","categoria":110,"proprio":"Bernardo","apelido":"Vasconcelos","estado":"NA"}
+,{"nr":207937,"nome":"Rui Manuel Campos Guimarães","sigla":"RCG","categoria":107,"proprio":"Rui","apelido":"Guimarães","estado":"NA"}
+,{"nr":207948,"nome":"António Torres Marques","sigla":"ATM","categoria":107,"proprio":"António","apelido":"Torres Marques","estado":"A"}
+,{"nr":207964,"nome":"Carlos Alberto Magalhães Oliveira","sigla":"CMO","categoria":110,"proprio":"Carlos","apelido":"Magalhães Oliveira","estado":"R"}
+,{"nr":207971,"nome":"Eugénio da Costa Oliveira","sigla":"ECO","categoria":107,"proprio":"Eugénio","apelido":"Oliveira","estado":"A"}
+,{"nr":207982,"nome":"Carlos Manuel Balboa Reis Gomes","sigla":"CRG","categoria":110,"proprio":"Carlos","apelido":"Reis Gomes","estado":"A"}
+,{"nr":207993,"nome":"Francisco José de Castro Xavier de Carvalho","sigla":"FXC","categoria":117,"proprio":"Francisco","apelido":"Xavier de Carvalho","estado":"A"}
+,{"nr":208006,"nome":"Francisco José Malheiro Queirós de Melo","sigla":"FQM","categoria":19999,"proprio":"Francisco","apelido":"Queirós Melo","estado":"NA"}
+,{"nr":208017,"nome":"José Abel Ferreira de Andrade","sigla":"JFA","categoria":116,"proprio":"José","apelido":"Abel Andrade","estado":"NA"}
+,{"nr":208024,"nome":"Clito Félix Alves Afonso","sigla":"CAA","categoria":110,"proprio":"Clito","apelido":"Afonso","estado":"A"}
+,{"nr":208033,"nome":"Carlos Manuel Coutinho Tavares de Pinho","sigla":"CTP","categoria":110,"proprio":"Carlos","apelido":"Tavares Pinho","estado":"A"}
+,{"nr":208040,"nome":"Francisco Jorge Teixeira de Freitas","sigla":"FTF","categoria":110,"proprio":"Francisco","apelido":"Freitas","estado":"A"}
+,{"nr":208051,"nome":"Carlos Manuel Sousa Moreira da Silva","sigla":"CMS","categoria":112,"proprio":"Carlos","apelido":"Moreira da Silva","estado":"A"}
+,{"nr":208062,"nome":"José Manuel de Almeida César de Sá","sigla":"JCS","categoria":107,"proprio":"José","apelido":"César de Sá","estado":"A"}
+,{"nr":208079,"nome":"Maria Filomena Guimaraes Dias d' Almeida","sigla":"FDA","categoria":107,"proprio":"Filomena","apelido":"Dias d Almeida","estado":"A"}
+,{"nr":208088,"nome":"Alvaro Henrique Rodrigues","sigla":"AHR","categoria":116,"proprio":"Álvaro","apelido":"Rodrigues","estado":"A"}
+,{"nr":208095,"nome":"António Paulo Monteiro Baptista","sigla":"AMB","categoria":110,"proprio":"António","apelido":"Monteiro Baptista","estado":"A"}
+,{"nr":208103,"nome":"Maria Teresa Braga Valente de Almeida Restivo","sigla":"MTR","categoria":144,"proprio":"Maria Teresa","apelido":"Restivo","estado":"A"}
+,{"nr":208110,"nome":"José Augusto Sobral Pires","sigla":"JSP","categoria":119,"proprio":"José","apelido":"Sobral Pires","estado":"NA"}
+,{"nr":208149,"nome":"Luís Gonzaga Azevedo de Carvalho","sigla":"LAC","categoria":19997,"proprio":"Luis","apelido":"Gonzaga Carvalho","estado":"NA"}
+,{"nr":208158,"nome":"Luís Filipe do Valle Peixoto e Villas Boas","sigla":"LVB","categoria":117,"proprio":"Luís","apelido":"Villas Boas","estado":"A"}
+,{"nr":208165,"nome":"Noel Casimiro Botelho Vieira","sigla":"NBV","categoria":117,"proprio":"Noel","apelido":"Vieira","estado":"NA"}
+,{"nr":208176,"nome":"Jorge Manuel Teixeira da Silva","sigla":"JTS","categoria":117,"proprio":"Jorge","apelido":"Teixeira Silva","estado":"A"}
+,{"nr":208187,"nome":"António Almerindo Pinheiro Vieira","sigla":"APV","categoria":117,"proprio":"António","apelido":"Vieira","estado":"A"}
+,{"nr":208194,"nome":"Adérito Barroso Sequeira Varejão","sigla":"ASV","categoria":117,"proprio":"Adérito","apelido":"Varejão","estado":"A"}
+,{"nr":208202,"nome":"Luís António de Andrade Ferreira","sigla":"LAF","categoria":110,"proprio":"Luis","apelido":"Andrade Ferreira","estado":"A"}
+,{"nr":208219,"nome":"Augusto Duarte Campos Barata da Rocha","sigla":"ABR","categoria":110,"proprio":"Augusto","apelido":"Barata da Rocha","estado":"A"}
+,{"nr":208228,"nome":"José Augusto Trigo Barbosa","sigla":"JTB","categoria":116,"proprio":"José","apelido":"Barbosa","estado":"A"}
+,{"nr":208235,"nome":"José António dos Santos Almacinha","sigla":"JSA","categoria":120,"proprio":"José","apelido":"Almacinha","estado":"A"}
+,{"nr":208246,"nome":"Rui Jorge de Lemos Neto","sigla":"RJN","categoria":117,"proprio":"Rui","apelido":"Neto","estado":"A"}
+,{"nr":208257,"nome":"Luísa Maria Pimenta Abreu Costa Sousa","sigla":"LMS","categoria":116,"proprio":"Luísa","apelido":"Costa Sousa","estado":"A"}
+,{"nr":208264,"nome":"José Fernando Dias Rodrigues","sigla":"JDR","categoria":110,"proprio":"José","apelido":"Dias Rodrigues","estado":"A"}
+,{"nr":208273,"nome":"Maria Dulce Soares Lopes","sigla":"DSL","categoria":116,"proprio":"Maria Dulce","apelido":"Soares Lopes","estado":"A"}
+,{"nr":208280,"nome":"Armando Manuel da Silva Santos","sigla":"ASS","categoria":116,"proprio":"Armando","apelido":"Santos","estado":"A"}
+,{"nr":208291,"nome":"José Carlos Guedes Gonçalves","sigla":"JGG","categoria":119,"proprio":"José","apelido":"Carlos Gonçalves","estado":"NA"}
+,{"nr":208305,"nome":"Jorge Humberto Oliveira Seabra","sigla":"JHS","categoria":110,"proprio":"Jorge","apelido":"Seabra","estado":"A"}
+,{"nr":208316,"nome":"António Luís Marinho de Tomé Ribeiro","sigla":"ATR","categoria":117,"proprio":"António","apelido":"Tomé Ribeiro","estado":"A"}
+,{"nr":208327,"nome":"Armando Luís Ferreira Leitão","sigla":"AFL","categoria":19997,"proprio":"Armando","apelido":"Leitão","estado":"A"}
+,{"nr":208334,"nome":"António Ernesto da Silva Carvalho Brito","sigla":"ACB","categoria":116,"proprio":"António","apelido":"Carvalho Brito","estado":"A"}
+,{"nr":208350,"nome":"Armando Carlos Figueiredo Coelho de Oliveira","sigla":"ACO","categoria":110,"proprio":"Armando C.","apelido":"Oliveira","estado":"A"}
+,{"nr":208361,"nome":"Fernando Pires Maciel Barbosa","sigla":"FMB","categoria":107,"proprio":"Fernando","apelido":"Maciel Barbosa","estado":"A"}
+,{"nr":208372,"nome":"Francisco José de Oliveira Restivo","sigla":"FJR","categoria":110,"proprio":"Francisco","apelido":"Restivo","estado":"A"}
+,{"nr":208389,"nome":"Vladimiro Henrique Barrosa Pinto de Miranda","sigla":"VPM","categoria":107,"proprio":"Vladimiro","apelido":"Miranda","estado":"A"}
+,{"nr":208398,"nome":"Artur Pimenta Alves","sigla":"APA","categoria":107,"proprio":"Artur","apelido":"Pimenta Alves","estado":"A"}
+,{"nr":208404,"nome":"Fernando Nunes Ferreira","sigla":"FNF","categoria":107,"proprio":"Fernando","apelido":"Nunes Ferreira","estado":"A"}
+,{"nr":208413,"nome":"Franclim Fortunato Ferreira","sigla":"FFF","categoria":116,"proprio":"Franclim","apelido":"Ferreira","estado":"A"}
+,{"nr":208420,"nome":"Casimiro António da Silva Barbosa","sigla":"CSB","categoria":119,"proprio":"Casimiro","apelido":"Barbosa","estado":"NA"}
+,{"nr":208431,"nome":"Luís António dos Santos Marques da Rocha","sigla":"LMR","categoria":117,"proprio":"Luis","apelido":"Marques Rocha","estado":"NA"}
+,{"nr":208442,"nome":"José António Ruela Simões Fernandes","sigla":"JAR","categoria":110,"proprio":"José","apelido":"Ruela","estado":"A"}
+,{"nr":208459,"nome":"Carlos Manuel Chaves Espain de Oliveira","sigla":"CEO","categoria":110,"proprio":"Carlos","apelido":"Espain Oliveira","estado":"NA"}
+,{"nr":208468,"nome":"José Alfredo Ribeiro da Silva Matos","sigla":"JSM","categoria":107,"proprio":"José","apelido":"Silva Matos","estado":"A"}
+,{"nr":208475,"nome":"António Carlos Sepúlveda Machado e Moura","sigla":"AMM","categoria":107,"proprio":"António","apelido":"Machado e Moura","estado":"A"}
+,{"nr":208486,"nome":"Aurélio Joaquim de Castro Campilho","sigla":"ACC","categoria":107,"proprio":"Aurélio","apelido":"Campilho","estado":"A"}
+,{"nr":208497,"nome":"Armando Jorge Monteiro Neves Padilha","sigla":"JNP","categoria":110,"proprio":"Armando","apelido":"Padilha","estado":"A"}
+,{"nr":208501,"nome":"Manuel Alves de Bacelar Vaz Guedes","sigla":"MVG","categoria":110,"proprio":"Manuel","apelido":"Vaz Guedes","estado":"A"}
+,{"nr":208512,"nome":"José Luís Pinto Pereira da Silva","sigla":"JLS","categoria":110,"proprio":"José","apelido":"Pereira Silva","estado":"A"}
+,{"nr":208529,"nome":"Armindo Luís Vilar Soares Lage","sigla":"ASL","categoria":116,"proprio":"Armindo","apelido":"Lage","estado":"A"}
+,{"nr":208538,"nome":"Amândio Gabriel Morim da Silva","sigla":"AMS","categoria":110,"proprio":"Amândio","apelido":"Morim da Silva","estado":"R"}
+,{"nr":208545,"nome":"Augusto Oliveira da Silva Gomes","sigla":"ASG","categoria":116,"proprio":"Augusto","apelido":"Silva Gomes","estado":"A"}
+,{"nr":208556,"nome":"Joaquim José Borges Gouveia","sigla":"JBG","categoria":19997,"proprio":"Joaquim","apelido":"Borges Gouveia","estado":"A"}
+,{"nr":208567,"nome":"Maria Eduarda Nunes Tavares Vieira da Costa","sigla":"MEC","categoria":110,"proprio":"Maria","apelido":"Eduarda Costa","estado":"NA"}
+,{"nr":208574,"nome":"Carlos Manuel de Araújo Sá","sigla":"CAS","categoria":116,"proprio":"Carlos","apelido":"Araújo Sá","estado":"A"}
+,{"nr":208583,"nome":"Artur Agostinho dos Santos Capelo Cardoso","sigla":"AAC","categoria":116,"proprio":"Artur","apelido":"Capelo Cardoso","estado":"A"}
+,{"nr":208590,"nome":"Mário Jorge Moreira Leitão","sigla":"MJL","categoria":110,"proprio":"Mário Jorge","apelido":"Leitão","estado":"A"}
+,{"nr":208608,"nome":"Adriano da Silva Carvalho","sigla":"ASC","categoria":110,"proprio":"Adriano","apelido":"Carvalho","estado":"A"}
+,{"nr":208615,"nome":"Sílvio Almeida Abrantes Moreira","sigla":"SAM","categoria":116,"proprio":"Sílvio","apelido":"Abrantes Moreira","estado":"A"}
+,{"nr":208626,"nome":"Maria Teresa Coelho Dias Arede","sigla":"MTA","categoria":116,"proprio":"Maria Teresa","apelido":"Arede","estado":"A"}
+,{"nr":208637,"nome":"Armínio de Almeida Teixeira","sigla":"AAT","categoria":903,"proprio":"Armínio","apelido":"Teixeira","estado":"A"}
+,{"nr":208644,"nome":"Diamantino Rui da Silva Freitas","sigla":"DSF","categoria":110,"proprio":"Diamantino","apelido":"Freitas","estado":"A"}
+,{"nr":208653,"nome":"Carlos Pinto Moreira de Sá","sigla":"CMS","categoria":144,"proprio":"Carlos","apelido":"Sá","estado":"A"}
+,{"nr":208660,"nome":"Manuel António Cerqueira da Costa Matos","sigla":"MAM","categoria":107,"proprio":"Manuel","apelido":"Matos","estado":"A"}
+,{"nr":208671,"nome":"Alexandra Maria Soares Ferreira Galhano","sigla":"AFG","categoria":116,"proprio":"Alexandra","apelido":"Galhano","estado":"NA"}
+,{"nr":208682,"nome":"José António Tenreiro Machado","sigla":"JTM","categoria":116,"proprio":"José","apelido":"Tenreiro Machado","estado":"NA"}
+,{"nr":208699,"nome":"José Manuel Araújo Baptista Mendonça","sigla":"JMM","categoria":107,"proprio":"José","apelido":"Baptista Mendonça","estado":"A"}
+,{"nr":208707,"nome":"Fernando Manuel Ferreira Lobo Pereira","sigla":"FLP","categoria":107,"proprio":"Fernando","apelido":"Lobo Pereira","estado":"A"}
+,{"nr":208714,"nome":"José Eduardo Roque Neves dos Santos","sigla":"JNS","categoria":116,"proprio":"José","apelido":"Neves Santos","estado":"A"}
+,{"nr":208730,"nome":"Artur Manuel de Figueiredo Fernandes e Costa","sigla":"AFC","categoria":116,"proprio":"Artur","apelido":"Costa","estado":"A"}
+,{"nr":208741,"nome":"Gabriel de Sousa Torcato David","sigla":"GTD","categoria":110,"proprio":"Gabriel","apelido":"David","estado":"A"}
+,{"nr":208752,"nome":"Ana Maria Rodrigues de Sousa Faria de Mendonça","sigla":"ASM","categoria":110,"proprio":"Ana Maria","apelido":"Mendonça","estado":"A"}
+,{"nr":208769,"nome":"João Abel Peças Lopes","sigla":"JPL","categoria":107,"proprio":"João","apelido":"Peças Lopes","estado":"A"}
+,{"nr":208778,"nome":"José Manuel Martins Ferreira","sigla":"JMF","categoria":110,"proprio":"José","apelido":"Martins Ferreira","estado":"A"}
+,{"nr":208785,"nome":"Jorge Alves da Silva","sigla":"JAS","categoria":116,"proprio":"Jorge","apelido":"Alves Silva","estado":"A"}
+,{"nr":208796,"nome":"Isabel Maria Marques Alves Ferreira","sigla":"IMF","categoria":116,"proprio":"Isabel","apelido":"Ferreira","estado":"A"}
+,{"nr":208800,"nome":"João Manuel Martins Mendonça","sigla":"JMM","categoria":116,"proprio":"João","apelido":"Mendonça","estado":"R"}
+,{"nr":208811,"nome":"Maria da Conceição Machado Alvim Ferraz","sigla":"CAF","categoria":116,"proprio":"Conceição","apelido":"Alvim Ferraz","estado":"A"}
+,{"nr":208822,"nome":"José Inácio Ferrão de Paiva Martins","sigla":"JIM","categoria":110,"proprio":"José","apelido":"Inácio Martins","estado":"A"}
+,{"nr":208839,"nome":"Sebastião José Cabral Feyo de Azevedo","sigla":"SFA","categoria":107,"proprio":"Sebastião","apelido":"Feyo de Azevedo","estado":"A"}
+,{"nr":208848,"nome":"Palmira Dias Oliveira Ferreira","sigla":"POF","categoria":116,"proprio":"Palmira","apelido":"Ferreira","estado":"NA"}
+,{"nr":208855,"nome":"Carlos Albino Veiga da Costa","sigla":"CAV","categoria":107,"proprio":"Carlos","apelido":"Costa","estado":"A"}
+,{"nr":208866,"nome":"Eduardo Alberto Baptista Maldonado","sigla":"EBM","categoria":107,"proprio":"Eduardo","apelido":"Maldonado","estado":"A"}
+,{"nr":208877,"nome":"José Miguel Loureiro","sigla":"JML","categoria":110,"proprio":"José Miguel","apelido":"Loureiro","estado":"A"}
+,{"nr":208884,"nome":"Maria do Pilar Figueroa Gonçalves","sigla":"MPG","categoria":110,"proprio":"Maria do Pilar","apelido":"Gonçalves","estado":"A"}
+,{"nr":208893,"nome":"Fernando Alberto Nogueira da Rocha","sigla":"FAR","categoria":116,"proprio":"Fernando","apelido":"Alberto Rocha","estado":"A"}
+,{"nr":208909,"nome":"José Joaquim de Melo Orfão","sigla":"JMO","categoria":110,"proprio":"José","apelido":"Melo Orfão","estado":"A"}
+,{"nr":208918,"nome":"José Carlos Brito Lopes","sigla":"JCL","categoria":110,"proprio":"José","apelido":"Carlos Lopes","estado":"A"}
+,{"nr":208925,"nome":"Madalena Maria Gomes Queiroz Dias","sigla":"MMD","categoria":110,"proprio":"Madalena","apelido":"Dias","estado":"A"}
+,{"nr":208947,"nome":"Maria Eugénia Rebello de Almeida Macedo","sigla":"MEM","categoria":110,"proprio":"Maria","apelido":"Eugénia Macedo","estado":"A"}
+,{"nr":208954,"nome":"Mário Rui Pinto Ferreira Nunes da Costa","sigla":"MRPFNC","categoria":110,"proprio":"Mário Rui","apelido":"P. F. Nunes da Costa","estado":"A"}
+,{"nr":208963,"nome":"Alberto Manuel Carneiro Sereno","sigla":"AMS","categoria":110,"proprio":"Alberto Manuel Carneiro","apelido":"Sereno","estado":"R"}
+,{"nr":208970,"nome":"José Armando Rodrigues Almeida","sigla":"JRA","categoria":117,"proprio":"José","apelido":"Rodrigues de Almeida","estado":"A"}
+,{"nr":208992,"nome":"Romualdo Luis Ribera Salcedo","sigla":"RRS","categoria":107,"proprio":"Romualdo","apelido":"Salcedo","estado":"A"}
+,{"nr":209016,"nome":"João Bernardo Lares Moreira de Campos","sigla":"JBC","categoria":110,"proprio":"João","apelido":"Campos","estado":"A"}
+,{"nr":209023,"nome":"Domingos Azevedo Gonçalves Barbosa","sigla":"DGB","categoria":116,"proprio":"Domingos","apelido":"Barbosa","estado":"A"}
+,{"nr":209032,"nome":"Manuel Alvaro Neto Coelho","sigla":"MANC","categoria":116,"proprio":"Manuel","apelido":"Neto Coelho","estado":"A"}
+,{"nr":209049,"nome":"Maria Arminda Costa Alves","sigla":"MAA","categoria":110,"proprio":"Maria","apelido":"Arminda Alves","estado":"A"}
+,{"nr":209050,"nome":"Daniel Ferreira de Oliveira Pinto","sigla":"DOP","categoria":116,"proprio":"Daniel","apelido":"Pinto","estado":"NA"}
+,{"nr":209061,"nome":"Manuel Inácio Ferraz Malafaya Baptista","sigla":"MMB","categoria":110,"proprio":"Manuel","apelido":"Malafaya Baptista","estado":"NA"}
+,{"nr":209078,"nome":"Rui Alfredo da Rocha Boaventura","sigla":"RRB","categoria":144,"proprio":"Rui","apelido":"Boaventura","estado":"A"}
+,{"nr":209087,"nome":"Maria Fernanda Quintela da Silva Proença","sigla":"MFP","categoria":116,"proprio":"Fernanda","apelido":"Proença","estado":"A"}
+,{"nr":209094,"nome":"Fernando Manuel Fernandes de Oliveira","sigla":"FFO","categoria":111,"proprio":"Fernando","apelido":"de Oliveira","estado":"A"}
+,{"nr":209441,"nome":"Maria Teresa Costa Pereira da Silva Ponce de Leão","sigla":"MTL","categoria":116,"proprio":"Teresa","apelido":"Ponce de Leão","estado":"A"}
+,{"nr":209458,"nome":"Jaime Manuel Queirós Ribeiro","sigla":"JQR","categoria":116,"proprio":"Jaime","apelido":"Ribeiro","estado":"A"}
+,{"nr":209467,"nome":"José António Sarsfield Pereira Cabral","sigla":"JAC","categoria":107,"proprio":"José","apelido":"Sarsfield Cabral","estado":"A"}
+,{"nr":209474,"nome":"Maria Helena Póvoas Corvacho","sigla":"MHC","categoria":116,"proprio":"Maria Helena","apelido":"Corvacho","estado":"A"}
+,{"nr":209485,"nome":"José Manuel Leitão Borges","sigla":"JLB","categoria":116,"proprio":"José","apelido":"Leitão Borges","estado":"A"}
+,{"nr":209496,"nome":"José António Rodrigues Pereira de Faria","sigla":"JAF","categoria":116,"proprio":"José António","apelido":"Faria","estado":"A"}
+,{"nr":209500,"nome":"António Augusto de Sousa","sigla":"AAS","categoria":110,"proprio":"A. Augusto","apelido":"Sousa","estado":"A"}
+,{"nr":209511,"nome":"Maria Margarida de Amorim Ferreira","sigla":"MMF","categoria":116,"proprio":"Margarida","apelido":"Ferreira","estado":"A"}
+,{"nr":209528,"nome":"Manuel Augusto de Pina Marques","sigla":"MPM","categoria":116,"proprio":"Manuel","apelido":"Pina Marques","estado":"A"}
+,{"nr":209537,"nome":"José Manuel Soutelo Soeiro de Carvalho","sigla":"JMSC","categoria":110,"proprio":"José","apelido":"Soeiro Carvalho","estado":"A"}
+,{"nr":209544,"nome":"João António Saraiva Pires da Fonseca","sigla":"JPF","categoria":116,"proprio":"João","apelido":"Fonseca","estado":"NA"}
+,{"nr":209555,"nome":"Oscar David dos Santos Mota","sigla":"OSM","categoria":116,"proprio":"Oscar","apelido":"Mota","estado":"A"}
+,{"nr":209566,"nome":"Maria Cristina de Carvalho Alves Ribeiro","sigla":"MCR","categoria":116,"proprio":"Cristina","apelido":"Ribeiro","estado":"A"}
+,{"nr":209573,"nome":"Rui Manuel Carvalho Marques de Faria","sigla":"RMF","categoria":110,"proprio":"Rui","apelido":"Faria","estado":"A"}
+,{"nr":209582,"nome":"António Miguel Pontes Pimenta Monteiro","sigla":"APM","categoria":116,"proprio":"Miguel","apelido":"Pimenta Monteiro","estado":"A"}
+,{"nr":209599,"nome":"Paulo Jorge de Azevedo Lopes dos Santos","sigla":"PLS","categoria":116,"proprio":"Paulo","apelido":"Lopes dos Santos","estado":"A"}
+,{"nr":209607,"nome":"Nelson Saraiva Vila Pouca","sigla":"NVP","categoria":116,"proprio":"Nelson","apelido":"Vila Pouca","estado":"A"}
+,{"nr":209614,"nome":"António Pedro Oliveira de Carvalho","sigla":"AOC","categoria":110,"proprio":"A","apelido":"Carvalho","estado":"A"}
+,{"nr":209625,"nome":"Manuel Fernando Gonçalves Vieira","sigla":"MV","categoria":110,"proprio":"Manuel","apelido":"Vieira","estado":"A"}
+,{"nr":209636,"nome":"Alexandra Maria Pinheiro da Silva Ferreira Rodrigues Pinto","sigla":"ARP","categoria":110,"proprio":"Alexandra","apelido":"Rodrigues Pinto","estado":"A"}
+,{"nr":209643,"nome":"Joaquim Mateus Gonçalves Gomes","sigla":"JMG","categoria":119,"proprio":"Joaquim","apelido":"Mateus Gomes","estado":"NA"}
+,{"nr":209652,"nome":"Isilda Viana Pereira da Silva de Vasconcelos Ferreira","sigla":"IVS","categoria":120,"proprio":"Isilda","apelido":"Vasconcelos Ferreira","estado":"A"}
+,{"nr":209670,"nome":"António José Pessoa de Magalhães","sigla":"APM","categoria":116,"proprio":"António José","apelido":"Pessoa de Magalhães","estado":"A"}
+,{"nr":209681,"nome":"Rui Manuel Gonçalves Calejo Rodrigues","sigla":"RCR","categoria":116,"proprio":"Rui","apelido":"Calejo Rodrigues","estado":"A"}
+,{"nr":209698,"nome":"Gaspar Augusto Duarte de Sousa Coutinho","sigla":"GSC","categoria":117,"proprio":"Gaspar","apelido":"Coutinho","estado":"A"}
+,{"nr":209706,"nome":"José Duarte Ribeiro Marafona","sigla":"JRM","categoria":116,"proprio":"José Duarte","apelido":"Marafona","estado":"A"}
+,{"nr":209713,"nome":"Hipólito José Campos de Sousa","sigla":"HCS","categoria":110,"proprio":"Hipólito","apelido":"Sousa","estado":"A"}
+,{"nr":209722,"nome":"António José de Pina Martins","sigla":"AJM","categoria":116,"proprio":"António","apelido":"Pina Martins","estado":"A"}
+,{"nr":209739,"nome":"Armando Luís Sousa Araújo","sigla":"ASA","categoria":116,"proprio":"Armando","apelido":"Araújo","estado":"A"}
+,{"nr":209740,"nome":"Zita Maria Almeida do Vale","sigla":"ZAV","categoria":116,"proprio":"Zita","apelido":"Vale","estado":"NA"}
+,{"nr":209751,"nome":"Fernando Manuel Coutinho Tavares de Pinho","sigla":"FTP","categoria":110,"proprio":"Fernando","apelido":"Tavares de Pinho","estado":"A"}
+,{"nr":209768,"nome":"José Alberto Peixoto Machado da Silva","sigla":"JAM","categoria":110,"proprio":"José","apelido":"Machado da Silva","estado":"A"}
+,{"nr":209777,"nome":"José Fernando Azevedo Magalhães","sigla":"JFM","categoria":116,"proprio":"José Fernando","apelido":"de Azevedo Magalhães","estado":"NA"}
+,{"nr":209784,"nome":"José Manuel Ferreira Duarte","sigla":"JFD","categoria":116,"proprio":"José","apelido":"Ferreira Duarte","estado":"A"}
+,{"nr":209795,"nome":"Maria Luísa Romariz Madureira","sigla":"MLM","categoria":116,"proprio":"Maria Luísa","apelido":"Romariz Madureira","estado":"A"}
+,{"nr":209809,"nome":"Arlindo Jorge Sá de Begonha","sigla":"AB","categoria":116,"proprio":"Arlindo","apelido":"Begonha","estado":"A"}
+,{"nr":209810,"nome":"José Manuel Magalhães Cruz","sigla":"MMC","categoria":116,"proprio":"José Manuel","apelido":"de Magalhães Cruz","estado":"A"}
+,{"nr":209821,"nome":"José Nuno Moura Marques Fidalgo","sigla":"JNF","categoria":116,"proprio":"José","apelido":"Nuno Fidalgo","estado":"A"}
+,{"nr":209838,"nome":"Paulo Manuel de Araújo Sá","sigla":"PAS","categoria":116,"proprio":"Paulo","apelido":"Sá","estado":"A"}
+,{"nr":209847,"nome":"Rui Carlos Camacho de Sousa Ferreira da Silva","sigla":"RCS","categoria":110,"proprio":"Rui","apelido":"Ferreira da Silva","estado":"A"}
+,{"nr":209865,"nome":"Fernando Gomes de Almeida","sigla":"FGA","categoria":116,"proprio":"Fernando","apelido":"Gomes Almeida","estado":"A"}
+,{"nr":209876,"nome":"Luís António Pereira de Meneses Corte-Real","sigla":"LCR","categoria":110,"proprio":"Luís","apelido":"Corte-Real","estado":"A"}
+,{"nr":209908,"nome":"Mário Augusto Pires Vaz","sigla":"MPV","categoria":110,"proprio":"Mário","apelido":"Vaz","estado":"A"}
+,{"nr":209924,"nome":"José António Fonseca da Mota Freitas","sigla":"JMF","categoria":519,"proprio":"José","apelido":"Mota Freitas","estado":"R"}
+,{"nr":209935,"nome":"Madalena Maria Matos Silva Teles","sigla":"MT","categoria":110,"proprio":"Madalena","apelido":"Teles","estado":"R"}
+,{"nr":209953,"nome":"José Domingos da Silva Santos","sigla":"JDS","categoria":110,"proprio":"José","apelido":"Domingos Santos","estado":"A"}
+,{"nr":209962,"nome":"Aurora Magalhães Futuro da Silva","sigla":"AFS","categoria":116,"proprio":"Aurora","apelido":"Futuro Silva","estado":"A"}
+,{"nr":209979,"nome":"Paulo Augusto Ferreira de Abreu","sigla":"PFA","categoria":116,"proprio":"Paulo","apelido":"Abreu","estado":"A"}
+,{"nr":209980,"nome":"José Fernando da Costa Oliveira","sigla":"JFO","categoria":110,"proprio":"José Fernando","apelido":"Oliveira","estado":"A"}
+,{"nr":210006,"nome":"João Carlos Pascoal de Faria","sigla":"JPF","categoria":116,"proprio":"João Carlos","apelido":"Pascoal de Faria","estado":"A"}
+,{"nr":210017,"nome":"José Carlos dos Santos Alves","sigla":"JCA","categoria":110,"proprio":"José Carlos","apelido":"Alves","estado":"A"}
+,{"nr":210024,"nome":"João Paulo Tomé Saraiva","sigla":"JTS","categoria":110,"proprio":"João","apelido":"Tomé Saraiva","estado":"A"}
+,{"nr":210033,"nome":"Maria José Avelar do Canto Machado","sigla":"MJM","categoria":120,"proprio":"Maria","apelido":"José Machado","estado":"NA"}
+,{"nr":210040,"nome":"Fernando Jorge Lino Alves","sigla":"JL","categoria":110,"proprio":"Jorge","apelido":"Lino","estado":"A"}
+,{"nr":210051,"nome":"Jorge Manuel Cabral Machado de Carvalho","sigla":"JMC","categoria":116,"proprio":"Jorge","apelido":"Machado de Carvalho","estado":"A"}
+,{"nr":210062,"nome":"José Carlos de Almeida Gouveia Lello","sigla":"JCL","categoria":119,"proprio":"José","apelido":"Carlos Lello","estado":"NA"}
+,{"nr":210079,"nome":"Luís Filipe Pereira Juvandes","sigla":"LFJ","categoria":116,"proprio":"Luís","apelido":"Filipe Juvandes","estado":"A"}
+,{"nr":210088,"nome":"Manuel Maria Pacheco Figueiredo","sigla":"MPF","categoria":116,"proprio":"Manuel Maria","apelido":"Pacheco Figueiredo","estado":"A"}
+,{"nr":210103,"nome":"Marcelo Francisco de Sousa Ferreira de Moura","sigla":"MFM","categoria":116,"proprio":"Marcelo","apelido":"Francisco Moura","estado":"A"}
+,{"nr":210110,"nome":"António Manuel Antunes Fiúza","sigla":"AAF","categoria":107,"proprio":"António","apelido":"Fiúza","estado":"A"}
+,{"nr":210121,"nome":"Paula Manuela Lemos Pereira Milheiro de Oliveira","sigla":"PMO","categoria":110,"proprio":"Paula","apelido":"Milheiro de Oliveira","estado":"A"}
+,{"nr":210132,"nome":"Maria do Rosário Marques Fernandes Teixeira de Pinho","sigla":"MRP","categoria":110,"proprio":"Maria do Rosário","apelido":"Pinho","estado":"A"}
+,{"nr":210149,"nome":"José Henrique Ribeiro Meireles de Barros","sigla":"JMB","categoria":119,"proprio":"José","apelido":"Meireles de Barros","estado":"NA"}
+,{"nr":210158,"nome":"Artur Manuel Oliveira Andrade de Moura","sigla":"AAM","categoria":116,"proprio":"Artur","apelido":"Andrade Moura","estado":"A"}
+,{"nr":210165,"nome":"Joaquim Oliveira Fonseca","sigla":"JOF","categoria":120,"proprio":"Joaquim","apelido":"Fonseca","estado":"A"}
+,{"nr":210176,"nome":"Alexandre Júlio Machado Leite","sigla":"AML","categoria":110,"proprio":"Alexandre","apelido":"Leite","estado":"A"}
+,{"nr":210187,"nome":"Maria de Lurdes Costa Lopes","sigla":"MLL","categoria":107,"proprio":"Maria","apelido":"de Lurdes Lopes","estado":"A"}
+,{"nr":210194,"nome":"Carlos Manuel de Valverde Miranda","sigla":"CVM","categoria":119,"proprio":"Carlos","apelido":"Valverde Miranda","estado":"NA"}
+,{"nr":210219,"nome":"João Manuel Abreu dos Santos Baptista","sigla":"JSB","categoria":116,"proprio":"João","apelido":"Santos Baptista","estado":"A"}
+,{"nr":210228,"nome":"Maria da Graça Ferreira Ribeiro Pinto","sigla":"MGP","categoria":120,"proprio":"Maria","apelido":"Graça Pinto","estado":"A"}
+,{"nr":210235,"nome":"Vitor Manuel Martins Cicouro de Pêra","sigla":"VCP","categoria":116,"proprio":"Vitor","apelido":"Pêra","estado":"A"}
+,{"nr":210246,"nome":"António Paulo Gomes Mendes Moreira","sigla":"AGM","categoria":116,"proprio":"António Paulo","apelido":"Moreira","estado":"A"}
+,{"nr":210264,"nome":"João Bernardo de Sena Esteves Falcão e Cunha","sigla":"JFC","categoria":110,"proprio":"João","apelido":"Falcão e Cunha","estado":"A"}
+,{"nr":210273,"nome":"José Fernando Gonçalves","sigla":"JFG","categoria":116,"proprio":"José","apelido":"Fernando Gonçalves","estado":"NA"}
+,{"nr":210305,"nome":"Álvaro Fernando de Oliveira Costa","sigla":"AC","categoria":110,"proprio":"Álvaro","apelido":"Costa","estado":"A"}
+,{"nr":210334,"nome":"Sílvio Marques de Almeida Gama","sigla":"SAG","categoria":19999,"proprio":"Sílvio","apelido":"Gama","estado":"A"}
+,{"nr":210343,"nome":"Paulo Santos Conceição","sigla":"PSC","categoria":116,"proprio":"Paulo","apelido":"Conceição","estado":"A"}
+,{"nr":210372,"nome":"Maria de Fátima de Castro Chousal","sigla":"MFC","categoria":116,"proprio":"Maria de Fátima","apelido":"Chousal","estado":"A"}
+,{"nr":210404,"nome":"José Luís Soares Esteves","sigla":"JSE","categoria":116,"proprio":"José Luís","apelido":"Soares Esteves","estado":"A"}
+,{"nr":210413,"nome":"António Manuel Lucas Soares","sigla":"ALS","categoria":110,"proprio":"António","apelido":"Lucas Soares","estado":"A"}
+,{"nr":210538,"nome":"Jorge Manuel Chaves Gomes Fernandes","sigla":"JCF","categoria":117,"proprio":"Jorge","apelido":"Fernandes","estado":"A"}
+,{"nr":210545,"nome":"Isabel Maria Fernandes Ribeiro Breda Lacerda Vázquez","sigla":"IBV","categoria":110,"proprio":"Isabel","apelido":"Breda Vázquez","estado":"A"}
+,{"nr":210556,"nome":"Abel Dias dos Santos","sigla":"ADS","categoria":116,"proprio":"Abel","apelido":"Santos","estado":"A"}
+,{"nr":210590,"nome":"Alcibiades Paulo Soares Guedes","sigla":"APSG","categoria":116,"proprio":"Alcibíades Paulo","apelido":"Soares Guedes","estado":"A"}
+,{"nr":210608,"nome":"Custódio João Pais Dias","sigla":"CJD","categoria":116,"proprio":"Custódio","apelido":"Dias","estado":"NA"}
+,{"nr":210615,"nome":"Fernando Pedro Marinho Neto Pires de Carvalho","sigla":"FPC","categoria":119,"proprio":"Fernando","apelido":"Pires de Carvalho","estado":"NA"}
+,{"nr":210637,"nome":"Helena Maria Vieira Monteiro Soares","sigla":"HMS","categoria":116,"proprio":"Helena M.V.M.","apelido":"Soares","estado":"A"}
+,{"nr":210644,"nome":"João Francisco de Sousa Cardoso","sigla":"JSC","categoria":117,"proprio":"João","apelido":"Sousa Cardoso","estado":"A"}
+,{"nr":210653,"nome":"João José da Cunha e Silva Pinto Ferreira","sigla":"JJF","categoria":110,"proprio":"João José","apelido":"Pinto Ferreira","estado":"A"}
+,{"nr":210660,"nome":"João Paulo Filipe de Sousa","sigla":"JFS","categoria":116,"proprio":"João Paulo","apelido":"Sousa","estado":"A"}
+,{"nr":210671,"nome":"Jorge Rui Guimarães Freire de Sousa","sigla":"JFS","categoria":116,"proprio":"Jorge","apelido":"Freire Sousa","estado":"A"}
+,{"nr":210682,"nome":"José António de Sousa Barros Basto","sigla":"JBB","categoria":116,"proprio":"José António","apelido":"Barros Basto","estado":"A"}
+,{"nr":210699,"nome":"José Augusto Gonçalves Chousal","sigla":"JGC","categoria":116,"proprio":"José","apelido":"Gonçalves Chousal","estado":"A"}
+,{"nr":210707,"nome":"José Cardoso Guedes","sigla":"JCG","categoria":120,"proprio":"José","apelido":"Cardoso Guedes","estado":"A"}
+,{"nr":210714,"nome":"José Pedro Arteiro Reina","sigla":"JAR","categoria":116,"proprio":"José","apelido":"Pedro Reina","estado":"A"}
+,{"nr":210723,"nome":"José Rui da Rocha Pinto Ferreira","sigla":"JRF","categoria":116,"proprio":"José Rui","apelido":"da Rocha Pinto Ferreira","estado":"A"}
+,{"nr":210730,"nome":"Manuel Dias de Castro","sigla":"MDC","categoria":116,"proprio":"Manuel","apelido":"Dias de Castro","estado":"A"}
+,{"nr":210741,"nome":"Margarida Maria da Silva Monteiro Bastos","sigla":"MMB","categoria":116,"proprio":"Margarida","apelido":"Bastos","estado":"A"}
+,{"nr":210752,"nome":"Miguel Augusto Vigário de Figueiredo","sigla":"MVF","categoria":374,"proprio":"Miguel","apelido":"Vigário Figueiredo","estado":"A"}
+,{"nr":210769,"nome":"Paulo Alexandre de Avilez Rodrigues Almeida Valente","sigla":"PAV","categoria":116,"proprio":"Paulo","apelido":"Avilez-Valente","estado":"A"}
+,{"nr":210778,"nome":"Paulo José da Silva Martins Coelho","sigla":"PMC","categoria":116,"proprio":"Paulo Martins","apelido":"Coelho","estado":"A"}
+,{"nr":210785,"nome":"Paulo Tenreiro dos Santos Monteiro","sigla":"PSM","categoria":116,"proprio":"Paulo","apelido":"Tenreiro Monteiro","estado":"A"}
+,{"nr":210800,"nome":"Raul Filipe Teixeira Oliveira","sigla":"RTO","categoria":116,"proprio":"Raul","apelido":"Oliveira","estado":"NA"}
+,{"nr":210822,"nome":"João Paulo Davim Tavares da Silva","sigla":"JPS","categoria":19999,"proprio":"Paulo","apelido":"Davim","estado":"NA"}
+,{"nr":210839,"nome":"José Eduardo Tavares Quintanilha de Menezes","sigla":"JETQM","categoria":116,"proprio":"José Eduardo Tavares","apelido":"Quintanilha de Menezes","estado":"A"}
+,{"nr":210848,"nome":"Manuel Rodrigues Quintas","sigla":"MRQ","categoria":116,"proprio":"Manuel","apelido":"Rodrigues Quintas","estado":"A"}
+,{"nr":210855,"nome":"Manuel Romano dos Santos Pinto Barbosa","sigla":"MPB","categoria":116,"proprio":"Manuel","apelido":"Romano Barbosa","estado":"A"}
+,{"nr":210866,"nome":"António Nunes Ribeiro Camelo","sigla":"NRC","categoria":119,"proprio":"António","apelido":"Ribeiro Camelo","estado":"NA"}
+,{"nr":210877,"nome":"Renato Manuel Natal Jorge","sigla":"RNJ","categoria":110,"proprio":"Renato","apelido":"Natal Jorge","estado":"A"}
+,{"nr":210884,"nome":"Irene Monteiro Ramos Chaves Fernandes","sigla":"ICF","categoria":117,"proprio":"Irene","apelido":"Fernandes","estado":"A"}
+,{"nr":210893,"nome":"Francisco Manuel de Oliveira Piqueiro","sigla":"FOP","categoria":116,"proprio":"Francisco","apelido":"Piqueiro","estado":"A"}
+,{"nr":210909,"nome":"Francisco Manuel Madureira e Castro Vasques de Carvalho","sigla":"FV","categoria":110,"proprio":"Francisco","apelido":"Vasques","estado":"A"}
+,{"nr":210925,"nome":"António Joaquim Pereira Viana da Fonseca","sigla":"AVF","categoria":110,"proprio":"António Joaquim","apelido":"Pereira Viana da Fonseca","estado":"A"}
+,{"nr":210947,"nome":"Américo Lopes de Azevedo","sigla":"ALA","categoria":110,"proprio":"Américo","apelido":"Azevedo","estado":"A"}
+,{"nr":210954,"nome":"José Honorato de Carvalho Madeira Rodrigues","sigla":"JHR","categoria":119,"proprio":"José","apelido":"Honorato Rodrigues","estado":"NA"}
+,{"nr":210963,"nome":"João Paulo de Castro Canas Ferreira","sigla":"JCF","categoria":116,"proprio":"João","apelido":"Canas Ferreira","estado":"A"}
+,{"nr":210970,"nome":"Lígia Maria da Silva Ribeiro","sigla":"LMR","categoria":144,"proprio":"Lígia Maria","apelido":"Ribeiro","estado":"A"}
+,{"nr":210992,"nome":"Rui Luis Gonçalves dos Reis","sigla":"RGR","categoria":119,"proprio":"Rui","apelido":"Reis","estado":"NA"}
+,{"nr":211120,"nome":"Cidália Maria Sousa Botelho","sigla":"CMB","categoria":116,"proprio":"Cidália","apelido":"Botelho","estado":"A"}
+,{"nr":211131,"nome":"Pedro Jorge Bettencourt de Oliveira Pinho","sigla":"POP","categoria":119,"proprio":"Pedro Jorge","apelido":"Pinho","estado":"NA"}
+,{"nr":211148,"nome":"Rui Manuel Teixeira Rego de Oliveira","sigla":"RRO","categoria":119,"proprio":"Rui","apelido":"Rego de Oliveira","estado":"NA"}
+,{"nr":211157,"nome":"Joaquim Eduardo de Sousa Gois","sigla":"JSG","categoria":116,"proprio":"Joaquim","apelido":"Gois","estado":"A"}
+,{"nr":211164,"nome":"João Tasso de Figueiredo Borges de Sousa","sigla":"JBS","categoria":120,"proprio":"João","apelido":"Tasso Sousa","estado":"A"}
+,{"nr":211193,"nome":"André Teixeira Puga","sigla":"ATP","categoria":116,"proprio":"André","apelido":"Puga","estado":"A"}
+,{"nr":211201,"nome":"Carlos Alberto da Conceição António","sigla":"CCA","categoria":110,"proprio":"Carlos Alberto","apelido":"Conceição António","estado":"A"}
+,{"nr":211218,"nome":"Rui Jorge Sousa Costa de Miranda Guedes","sigla":"RMG","categoria":116,"proprio":"Rui","apelido":"Miranda Guedes","estado":"A"}
+,{"nr":211227,"nome":"António Manuel Perez da Silva Babo","sigla":"APB","categoria":117,"proprio":"António","apelido":"Pérez Babo","estado":"A"}
+,{"nr":211245,"nome":"Ana Claudia Amorim de Sousa","sigla":"ACS","categoria":119,"proprio":"Ana","apelido":"Cláudia Sousa","estado":"NA"}
+,{"nr":211256,"nome":"Joaquim Gabriel Magalhães Mendes","sigla":"JGMM","categoria":116,"proprio":"Joaquim Gabriel","apelido":"Magalhães Mendes","estado":"A"}
+,{"nr":211263,"nome":"Elsa de Sá Caetano","sigla":"ESC","categoria":110,"proprio":"Elsa","apelido":"Caetano","estado":"A"}
+,{"nr":211272,"nome":"José António de Oliveira Simões","sigla":"JOS","categoria":19999,"proprio":"José","apelido":"Oliveira Simões","estado":"A"}
+,{"nr":211289,"nome":"Rui Manuel Esteves Araújo","sigla":"REA","categoria":116,"proprio":"Rui","apelido":"Esteves Araújo","estado":"A"}
+,{"nr":211290,"nome":"Maria Henriqueta Dourado Eusébio Sampaio da Nóvoa","sigla":"MHN","categoria":116,"proprio":"Maria","apelido":"Henriqueta Nóvoa","estado":"A"}
+,{"nr":211304,"nome":"Victor Manuel Gonçalves de Sousa","sigla":"VGS","categoria":116,"proprio":"Victor","apelido":"Gonçalves de Sousa","estado":"A"}
+,{"nr":211315,"nome":"António José Coelho Dias Arêde","sigla":"AA","categoria":116,"proprio":"António","apelido":"Arêde","estado":"A"}
+,{"nr":211326,"nome":"Diana Maria Carreira Pires Urbano","sigla":"DPU","categoria":116,"proprio":"Diana","apelido":"Urbano","estado":"A"}
+,{"nr":211333,"nome":"Mário Luís Vidal Pires Genésio","sigla":"MPG","categoria":119,"proprio":"Mário","apelido":"Genésio","estado":"NA"}
+,{"nr":211342,"nome":"Fernanda Maria Campos de Sousa","sigla":"FCS","categoria":116,"proprio":"Fernanda","apelido":"Campos de Sousa","estado":"A"}
+,{"nr":211359,"nome":"Luís António de Almeida Vieira","sigla":"LAV","categoria":116,"proprio":"Luís","apelido":"Almeida Vieira","estado":"A"}
+,{"nr":211360,"nome":"Fernão Domingos de Montenegro Baptista Malheiro de Magalhães","sigla":"FDM","categoria":116,"proprio":"Fernão","apelido":"Domingos Magalhães","estado":"A"}
+,{"nr":211388,"nome":"Eduardo Filipe Júdice Nunes de Vilhena Crespo","sigla":"EVC","categoria":119,"proprio":"Eduardo","apelido":"Crespo","estado":"NA"}
+,{"nr":211397,"nome":"Maria do Carmo Costa Patrocínio Coimbra","sigla":"MCC","categoria":116,"proprio":"Maria do Carmo","apelido":"Coimbra","estado":"A"}
+,{"nr":211412,"nome":"Miguel Jorge Chichorro Rodrigues Gonçalves","sigla":"MCG","categoria":116,"proprio":"Miguel","apelido":"Chichorro Gonçalves","estado":"A"}
+,{"nr":211429,"nome":"Francisco de Almeida Taveira Pinto","sigla":"FTP","categoria":110,"proprio":"Francisco","apelido":"Taveira Pinto","estado":"A"}
+,{"nr":211430,"nome":"Teresa Margarida Guerra Pereira Duarte","sigla":"TMD","categoria":116,"proprio":"Teresa","apelido":"Duarte","estado":"A"}
+,{"nr":211441,"nome":"Carlos Alberto Baptista Medeiros","sigla":"CAM","categoria":117,"proprio":"Carlos","apelido":"Medeiros","estado":"A"}
+,{"nr":211458,"nome":"José Manuel Laginha Mestre da Palma","sigla":"JLP","categoria":110,"proprio":"José","apelido":"Laginha Palma","estado":"A"}
+,{"nr":211467,"nome":"Eurico de Sousa Pereira","sigla":"ESP","categoria":519,"proprio":"Eurico","apelido":"Pereira","estado":"A"}
+,{"nr":211500,"nome":"Paulo Manuel Neto da Costa Pinho","sigla":"PP","categoria":107,"proprio":"Paulo","apelido":"Pinho","estado":"A"}
+,{"nr":211511,"nome":"José Luis Coelho Alexandre","sigla":"JLA","categoria":116,"proprio":"José Luis","apelido":"Coelho Alexandre","estado":"A"}
+,{"nr":211544,"nome":"António Abel Ribeiro Henriques","sigla":"AARH","categoria":116,"proprio":"António","apelido":"Abel Henriques","estado":"A"}
+,{"nr":211573,"nome":"António Joaquim Mendes Ferreira","sigla":"AMF","categoria":110,"proprio":"António","apelido":"Mendes Ferreira","estado":"A"}
+,{"nr":211582,"nome":"Emília Maria Delgado Domingos Antunes Malcata Rebelo","sigla":"EMR","categoria":116,"proprio":"Emília","apelido":"Malcata Rebelo","estado":"A"}
+,{"nr":211599,"nome":"António Manuel Ferreira Mendes Lopes","sigla":"AML","categoria":116,"proprio":"António","apelido":"Mendes Lopes","estado":"A"}
+,{"nr":211607,"nome":"Pedro Luis Martinho da Silva","sigla":"PMS","categoria":119,"proprio":"Pedro","apelido":"Martinho Silva","estado":"NA"}
+,{"nr":211625,"nome":"Ana Paula Cunha da Rocha ","sigla":"APR","categoria":116,"proprio":"Ana Paula","apelido":"Rocha","estado":"A"}
+,{"nr":211636,"nome":"António José Duarte Araújo","sigla":"AJA","categoria":116,"proprio":"António","apelido":"Duarte Araújo","estado":"A"}
+,{"nr":211669,"nome":"Luis Paulo Gonçalves dos Reis","sigla":"LPR","categoria":116,"proprio":"Luis Paulo","apelido":"Reis","estado":"A"}
+,{"nr":211706,"nome":"José Luis Cabral Moura Borges","sigla":"JMB","categoria":116,"proprio":"José Luís","apelido":"Moura Borges","estado":"A"}
+,{"nr":211713,"nome":"José Nuno Teixeira de Almeida","sigla":"NTA","categoria":116,"proprio":"Nuno","apelido":"T. Almeida","estado":"A"}
+,{"nr":211739,"nome":"João Paulo de Freitas Sousa","sigla":"JPSF1","categoria":19999,"proprio":"João Paulo","apelido":"Sousa","estado":"NA"}
+,{"nr":211751,"nome":"Maria Cristina da Costa Vila","sigla":"MCV","categoria":116,"proprio":"Maria Cristina","apelido":"Vila","estado":"A"}
+,{"nr":211768,"nome":"Joaquim Luís Bernardes Martins de Faria","sigla":"JDF","categoria":110,"proprio":"Joaquim Luís","apelido":"Faria","estado":"A"}
+,{"nr":211777,"nome":"Ana Maria Megre Eugénio Leal Seabra de Figueiredo","sigla":"AMF","categoria":116,"proprio":"Ana","apelido":"Figueiredo","estado":"NA"}
+,{"nr":211784,"nome":"Lúcia Maria da Silveira Santos","sigla":"LSS","categoria":116,"proprio":"Lúcia","apelido":"Silveira Santos","estado":"A"}
+,{"nr":211795,"nome":"Paulo José Cerqueira Gomes da Costa","sigla":"PGC","categoria":116,"proprio":"Paulo","apelido":"Gomes da Costa","estado":"A"}
+,{"nr":211810,"nome":"Mário Jorge Rodrigues de Sousa","sigla":"MJS","categoria":116,"proprio":"Mário Jorge","apelido":"Rodrigues de Sousa","estado":"A"}
+,{"nr":211821,"nome":"Joaquim José de Amaral Vieira e Costa","sigla":"JJC","categoria":116,"proprio":"Joaquim","apelido":"Costa","estado":"A"}
+,{"nr":211838,"nome":"Paulo José Lopes Machado Portugal","sigla":"PJP","categoria":116,"proprio":"Paulo José","apelido":"Portugal","estado":"A"}
+,{"nr":211847,"nome":"Jaime Enrique Villate Matiz","sigla":"JEV","categoria":116,"proprio":"Jaime","apelido":"Villate","estado":"A"}
+,{"nr":211854,"nome":"Pedro Henrique Henriques Guedes de Oliveira","sigla":"PGO","categoria":107,"proprio":"Pedro","apelido":"Guedes de Oliveira","estado":"A"}
+,{"nr":211865,"nome":"António José Fidalgo do Couto","sigla":"AFC","categoria":116,"proprio":"António","apelido":"Fidalgo Couto","estado":"A"}
+,{"nr":211883,"nome":"Pedro Lopes Granja","sigla":"PLG","categoria":19999,"proprio":"Pedro","apelido":"Granja","estado":"A"}
+,{"nr":211892,"nome":"José Pedro Maia Pimentel Tavares","sigla":"JPT","categoria":116,"proprio":"José","apelido":"Pedro Tavares","estado":"A"}
+,{"nr":211908,"nome":"Manuel Joaquim da Silva Oliveira","sigla":"MJO","categoria":116,"proprio":"Manuel Joaquim","apelido":"Oliveira","estado":"A"}
+,{"nr":211924,"nome":"Abel Jorge Antunes da Costa","sigla":"AJC","categoria":116,"proprio":"Abel","apelido":"Antunes Costa","estado":"A"}
+,{"nr":211935,"nome":"Catarina Rosa Santos Ferreira de Castro","sigla":"CRC","categoria":116,"proprio":"Catarina","apelido":"Castro","estado":"A"}
+,{"nr":214297,"nome":"David Arthur Davis","sigla":"DAD","categoria":19999,"proprio":"David","apelido":"Davis","estado":"A"}
+,{"nr":215791,"nome":"José Manuel Pereira Azevedo","sigla":"JMPA","categoria":19999,"proprio":"José Manuel","apelido":"Azevedo","estado":"A"}
+,{"nr":215850,"nome":"Maria Fernanda da Silva Martins","sigla":"MFSM","categoria":19999,"proprio":"Maria Fernanda","apelido":"Martins","estado":"A"}
+,{"nr":216073,"nome":"Cândida Fernanda Antunes Ribeiro","sigla":"CFAR","categoria":19999,"proprio":"Fernanda","apelido":"Ribeiro","estado":"A"}
+,{"nr":219063,"nome":"Isabel Maria Amorim Pereira Ramos","sigla":"IMAPR","categoria":19999,"proprio":"Isabel","apelido":"Ramos","estado":"A"}
+,{"nr":219919,"nome":"João Francisco Montenegro Andrade Lima Bernardes","sigla":"JLB","categoria":19999,"proprio":"João","apelido":"Bernardes","estado":"A"}
+,{"nr":222334,"nome":"José Castela Torres Costa","sigla":"JCTC","categoria":19999,"proprio":"José Castela","apelido":"Costa","estado":"NA"}
+,{"nr":223485,"nome":"Maria Filomena Jordão Morais","sigla":"MFJM","categoria":19999,"proprio":"Maria Filomena","apelido":"Jordão Morais","estado":"A"}
+,{"nr":223537,"nome":"Marianne Helene Lacomblez","sigla":"MHL","categoria":19999,"proprio":"Marianne","apelido":"Lacomblez","estado":"A"}
+,{"nr":223555,"nome":"José Manuel Miguez Araújo","sigla":"JMMA","categoria":19999,"proprio":"José Manuel","apelido":"Araújo","estado":"A"}
+,{"nr":226736,"nome":"Manuel Correia Fernandes","sigla":"MCF","categoria":19999,"proprio":"Manuel","apelido":"Fernandes","estado":"A"}
+,{"nr":226899,"nome":"Rui Humberto Costa de Fernandes Póvoas","sigla":"RFP","categoria":19999,"proprio":"Rui","apelido":"Póvoas","estado":"A"}
+,{"nr":230073,"nome":"Pedro Gaspar Moradas Ferreira","sigla":"PGMF","categoria":19999,"proprio":"Pedro Gaspar","apelido":"Ferreira","estado":"A"}
+,{"nr":230082,"nome":"Vitor Manuel Vieira da Costa","sigla":"VMVC","categoria":19999,"proprio":"Vitor","apelido":"Costa","estado":"A"}
+,{"nr":230169,"nome":"Ana Maria Gomes Gonçalves Azevedo","sigla":"AMA","categoria":103,"proprio":"Ana","apelido":"Azevedo","estado":"A"}
+,{"nr":230268,"nome":"Adélio Miguel Magalhães Mendes","sigla":"AMM","categoria":110,"proprio":"Adélio","apelido":"Mendes","estado":"A"}
+,{"nr":230491,"nome":"António Júlio Afonso de Vasconcelos","sigla":"AJV","categoria":565,"proprio":"António","apelido":"Júlio Vasconcelos","estado":"A"}
+,{"nr":230505,"nome":"Mário Adolfo Monteiro da Rocha Barbosa","sigla":"MAB","categoria":107,"proprio":"Mário","apelido":"Adolfo Barbosa","estado":"A"}
+,{"nr":230756,"nome":"João António Correia Lopes","sigla":"JCL","categoria":116,"proprio":"João","apelido":"Correia Lopes","estado":"A"}
+,{"nr":231065,"nome":"João Isidro Araújo Vila Verde","sigla":"JVV","categoria":120,"proprio":"João","apelido":"Vila Verde","estado":"A"}
+,{"nr":231072,"nome":"Hélio Mendes de Sousa Mendonça","sigla":"HSM","categoria":116,"proprio":"Helio","apelido":"Mendonca","estado":"A"}
+,{"nr":231081,"nome":"Ademar Manuel Teixeira de Aguiar","sigla":"AMA","categoria":116,"proprio":"Ademar","apelido":"Aguiar","estado":"A"}
+,{"nr":231249,"nome":"Aurora Amélia Castro Teixeira","sigla":"AACT","categoria":19999,"proprio":"Aurora","apelido":"Teixeira","estado":"A"}
+,{"nr":231320,"nome":"Sandra Maria Soares Santos","sigla":"SSS","categoria":119,"proprio":"Sandra","apelido":"Santos","estado":"NA"}
+,{"nr":231674,"nome":"Laura Maria Melo Ribeiro","sigla":"LMMR","categoria":116,"proprio":"Laura","apelido":"Ribeiro","estado":"A"}
+,{"nr":232026,"nome":"Manuel António da Silva Lima","sigla":"MSL","categoria":119,"proprio":"Manuel António","apelido":"Lima","estado":"NA"}
+,{"nr":232178,"nome":"José Fernando Coutinho Sampaio","sigla":"JSC","categoria":120,"proprio":"José","apelido":"Coutinho Sampaio","estado":"A"}
+,{"nr":232237,"nome":"Carlos Alberto Bragança de Oliveira","sigla":"CBO","categoria":120,"proprio":"Carlos ","apelido":" Oliveira","estado":"A"}
+,{"nr":232248,"nome":"Armando Pereira","sigla":"AP","categoria":116,"proprio":"Armando","apelido":"Pereira","estado":"NA"}
+,{"nr":232259,"nome":"Manuel Artur Barbot Veiga de Faria","sigla":"MVF","categoria":117,"proprio":"Manuel","apelido":"Veiga de Faria","estado":"A"}
+,{"nr":232266,"nome":"Sara Maria dos Santos Rodrigues da Cruz","sigla":"SSC","categoria":116,"proprio":"Sara","apelido":"Santos Cruz","estado":"A"}
+,{"nr":232374,"nome":"Alan Keith Dawber","sigla":"AKD","categoria":19999,"proprio":"Alan","apelido":"Dawber","estado":"A"}
+,{"nr":232406,"nome":"Luis Miguel Meireles Bessa Costa","sigla":"LMC","categoria":718,"proprio":"Luís Miguel","apelido":"Costa","estado":"A"}
+,{"nr":232673,"nome":"Manuel António Moreira Alves","sigla":"MMA","categoria":116,"proprio":"Manuel A","apelido":"Alves","estado":"A"}
+,{"nr":232938,"nome":"Alípio Mário Guedes Jorge","sigla":"AMGJ","categoria":19999,"proprio":"Alípio","apelido":"Jorge","estado":"NA"}
+,{"nr":233096,"nome":"António da Silva Guedes","sigla":"ASG","categoria":120,"proprio":"António","apelido":"Guedes","estado":"A"}
+,{"nr":233111,"nome":"Aníbal João de Sousa Ferreira","sigla":"AJF","categoria":116,"proprio":"Aníbal","apelido":"Ferreira","estado":"A"}
+,{"nr":233133,"nome":"Miguel Ângelo de Sousa Mendes","sigla":"MAdSM","categoria":116,"proprio":"Miguel Ângelo","apelido":"de Sousa Mendes","estado":"A"}
+,{"nr":233188,"nome":"José António de Bessa Pacheco","sigla":"JBP","categoria":117,"proprio":"José","apelido":"Bessa Pacheco","estado":"A"}
+,{"nr":233513,"nome":"José Francisco Preto Meirinhos","sigla":"JFPM","categoria":19999,"proprio":"José","apelido":"Meirinhos","estado":"A"}
+,{"nr":233575,"nome":"João António Gonçalves de Sousa Marques de Carvalho","sigla":"JMC","categoria":119,"proprio":"João","apelido":"Marques de Carvalho","estado":"A"}
+,{"nr":233753,"nome":"Maria Antónia da Silva Lopes de Carravilla","sigla":"MAC","categoria":116,"proprio":"Maria Antónia","apelido":"Carravilla","estado":"A"}
+,{"nr":233801,"nome":"Aníbal Castilho Coimbra de Matos","sigla":"ACM","categoria":116,"proprio":"Aníbal","apelido":"Castilho Coimbra de Matos","estado":"A"}
+,{"nr":234033,"nome":"Ricardo Manuel de Araújo Sá","sigla":"RAS","categoria":19995,"proprio":"Ricardo","apelido":"Araújo Sá","estado":"NA"}
+,{"nr":234095,"nome":"Rui Artur Bártolo Calçada","sigla":"RBC","categoria":116,"proprio":"Rui","apelido":"Calçada","estado":"A"}
+,{"nr":234103,"nome":"Maria Joana Monteiro de Carvalho Peres","sigla":"MJP","categoria":116,"proprio":"Maria","apelido":"Joana Peres","estado":"A"}
+,{"nr":234110,"nome":"Maria Inês Barbosa de Carvalho","sigla":"MIC","categoria":116,"proprio":"Maria Inês","apelido":"Barbosa de Carvalho","estado":"A"}
+,{"nr":234132,"nome":"Cristina Maria Clementino Fernandes de Faria Miranda Guedes","sigla":"CMG","categoria":116,"proprio":"Cristina","apelido":"Miranda Guedes","estado":"A"}
+,{"nr":234149,"nome":"Carlos Manuel Cardoso Oliveira","sigla":"CCO","categoria":103,"proprio":"Carlos","apelido":"Cardoso Oliveira","estado":"A"}
+,{"nr":234273,"nome":"José Feliciano Silva Rodrigues","sigla":"JFR","categoria":116,"proprio":"José Feliciano","apelido":"Rodrigues","estado":"A"}
+,{"nr":234420,"nome":"Maria Paula de Pinho de Brito Duarte Silva","sigla":"MPPBDS","categoria":19999,"proprio":"Maria Paula","apelido":"Brito","estado":"NA"}
+,{"nr":234615,"nome":"Alberto Jorge Martins de Figueiredo","sigla":"AJF","categoria":119,"proprio":"Alberto Jorge","apelido":"Figueiredo","estado":"NA"}
+,{"nr":235566,"nome":"Rui Manuel de Azevedo Pereira da Silva","sigla":"RAS","categoria":117,"proprio":"Rui Pereira da","apelido":"Silva","estado":"A"}
+,{"nr":235777,"nome":"António Miguel da Fonseca Fernandes Gomes","sigla":"AMG","categoria":116,"proprio":"A. Miguel","apelido":"Gomes","estado":"A"}
+,{"nr":235795,"nome":"Maria Teresa Magalhães da Silva Pinto de Andrade","sigla":"MTA","categoria":116,"proprio":"Maria Teresa","apelido":"Andrade","estado":"A"}
+,{"nr":235847,"nome":"Carlos Manuel Milheiro de Oliveira Pinto Soares","sigla":"CMMOPS","categoria":19999,"proprio":"Carlos","apelido":"Soares","estado":"NA"}
+,{"nr":236031,"nome":"João Pedro Carvalho Leal Mendes Moreira","sigla":"JPMM","categoria":116,"proprio":"João Pedro Mendes","apelido":"Moreira","estado":"A"}
+,{"nr":236086,"nome":"Altino Moreira da Silva","sigla":"AMS","categoria":120,"proprio":"Altino","apelido":"Silva","estado":"A"}
+,{"nr":236185,"nome":"Rui Manuel Sequeira Queiroga","sigla":"RMQ","categoria":119,"proprio":"Rui","apelido":"Queiroga","estado":"NA"}
+,{"nr":236200,"nome":"Lia  Raquel Neto Martins de Lima Patrício","sigla":"LP","categoria":116,"proprio":"Lia","apelido":"Patrício","estado":"A"}
+,{"nr":236325,"nome":"Alberto Manuel Botelho de Miranda","sigla":"MBM","categoria":117,"proprio":"Alberto Manuel","apelido":"Miranda","estado":"A"}
+,{"nr":236853,"nome":"José Alberto Álvares Pereira Gonçalves","sigla":"JAG","categoria":19999,"proprio":"José ","apelido":"Gonçalves","estado":"NA"}
+,{"nr":236882,"nome":"Armando Jorge Miranda de Sousa","sigla":"AJS","categoria":116,"proprio":"Armando Jorge","apelido":"Sousa","estado":"A"}
+,{"nr":236891,"nome":"Manuel Alberto Pereira Ricardo","sigla":"MPR","categoria":110,"proprio":"Manuel","apelido":"Pereira Ricardo","estado":"A"}
+,{"nr":236990,"nome":"Luis Pedro de Gouveia Lopes Moás","sigla":"LPM","categoria":120,"proprio":"Luis Pedro","apelido":"Moás","estado":"A"}
+,{"nr":237014,"nome":"Rui António Silva Moreira","sigla":"RAM","categoria":119,"proprio":"Rui António","apelido":"Moreira","estado":"NA"}
+,{"nr":237155,"nome":"Lucas Filipe Martins da Silva","sigla":"LFS","categoria":116,"proprio":"Lucas Filipe","apelido":"Silva","estado":"A"}
+,{"nr":237410,"nome":"Tito Carlos Soares Vieira","sigla":"TCSV","categoria":103,"proprio":"Tito Carlos S.","apelido":"Vieira","estado":"A"}
+,{"nr":237494,"nome":"Maria Teresa Galvão Dias","sigla":"MTD","categoria":116,"proprio":"Teresa","apelido":"Galvão Dias","estado":"A"}
+,{"nr":237766,"nome":"Sérgio Reis Cunha","sigla":"SRC","categoria":116,"proprio":"Sérgio","apelido":"Reis Cunha","estado":"A"}
+,{"nr":237775,"nome":"Miguel Ângelo Simões de Almeida Ladeira","sigla":"MAL","categoria":119,"proprio":"Miguel","apelido":"Ladeira","estado":"NA"}
+,{"nr":237782,"nome":"Isabel Cristina da Silva Martins Ribeiro","sigla":"IMR","categoria":116,"proprio":"Isabel","apelido":"Martins Ribeiro","estado":"A"}
+,{"nr":237793,"nome":"Ana Paula Duque Carreira","sigla":"APC","categoria":119,"proprio":"Ana Paula","apelido":"Carreira","estado":"NA"}
+,{"nr":237807,"nome":"Rui Jorge Almeida Soares Gonçalves","sigla":"RJG","categoria":116,"proprio":"Rui Jorge","apelido":"Gonçalves","estado":"A"}
+,{"nr":237906,"nome":"Paulo Jorge Ramísio Pernagorda","sigla":"PJP","categoria":119,"proprio":"Paulo Jorge","apelido":"Pernagord","estado":"NA"}
+,{"nr":237933,"nome":"Jorge Manuel de Matos Reis","sigla":"JMR","categoria":132,"proprio":"Jorge","apelido":"Matos Reis","estado":"A"}
+,{"nr":237951,"nome":"Cecília Alexandra Abreu Coelho da Rocha","sigla":"CR","categoria":119,"proprio":"Cecília","apelido":"Rocha","estado":"A"}
+,{"nr":238154,"nome":"António Manuel Rincon de Aguiar Vieira","sigla":"AMV","categoria":116,"proprio":"António","apelido":"Aguiar Vieira","estado":"A"}
+,{"nr":238172,"nome":"Pedro Alexandre Guimarães Lobo Ferreira do Souto","sigla":"PFS","categoria":116,"proprio":"Pedro","apelido":"Ferreira do Souto","estado":"A"}
+,{"nr":238437,"nome":"Jonathan David Lewis","sigla":"JDL","categoria":19999,"proprio":"Jonathan","apelido":"Lewis","estado":"A"}
+,{"nr":238710,"nome":"Nuno Manuel Monteiro Ramos","sigla":"NMR","categoria":116,"proprio":"Nuno","apelido":"Ramos","estado":"A"}
+,{"nr":238729,"nome":"Maria de Lurdes de Oliveira Simões","sigla":"MLS","categoria":116,"proprio":"Maria de Lurdes","apelido":"Simões","estado":"A"}
+,{"nr":238736,"nome":"João Paulo Sousa Costa de Miranda Guedes","sigla":"JPG","categoria":116,"proprio":"João Paulo","apelido":"Miranda Guedes","estado":"A"}
+,{"nr":238969,"nome":"Carlos Daniel Borges Coelho","sigla":"CDC","categoria":119,"proprio":"Carlos Daniel","apelido":"Coelho","estado":"NA"}
+,{"nr":239083,"nome":"Belmira de Almeida Ferreira Neto","sigla":"BN","categoria":116,"proprio":"Belmira","apelido":"Neto","estado":"A"}
+,{"nr":239223,"nome":"Isabel Maria Marques da Silva Magalhães","sigla":"IMS","categoria":116,"proprio":"Isabel Maria","apelido":"Silva","estado":"A"}
+,{"nr":239252,"nome":"José Carlos Magalhães Duque da Fonseca","sigla":"JCF","categoria":116,"proprio":"José Carlos","apelido":"Fonseca","estado":"A"}
+,{"nr":239269,"nome":"Pedro Miguel de Almeida Areias","sigla":"PMA","categoria":124,"proprio":"Pedro Miguel","apelido":"Areias","estado":"NA"}
+,{"nr":240013,"nome":"Olga Cristina Pastor Nunes","sigla":"OPN","categoria":116,"proprio":"Olga","apelido":"Pastor Nunes","estado":"A"}
+,{"nr":240020,"nome":"Pedro Manuel Ponces Rodrigues de Castro Camanho","sigla":"PCC","categoria":110,"proprio":"Pedro","apelido":"Ponces Camanho","estado":"A"}
+,{"nr":240109,"nome":"Willem Lambertus Van Meurs","sigla":"wvm","categoria":111,"proprio":"Willem","apelido":"Meurs","estado":"A"}
+,{"nr":240161,"nome":"André Ribeiro da Silva de Almeida Marçal","sigla":"ARM","categoria":19999,"proprio":"André","apelido":"Ribeiro Marçal","estado":"NA"}
+,{"nr":240172,"nome":"Miguel Fernando Paiva Velhote Correia","sigla":"MVC","categoria":116,"proprio":"Miguel","apelido":"Velhote Correia","estado":"A"}
+,{"nr":240183,"nome":"Pedro Manuel Leal Ribeiro","sigla":"PLR","categoria":116,"proprio":"Pedro","apelido":"Leal Ribeiro","estado":"A"}
+,{"nr":240385,"nome":"Francisco Manuel Andrade Pires","sigla":"FAP","categoria":111,"proprio":"Francisco","apelido":"Andrade Pires","estado":"A"}
+,{"nr":240394,"nome":"Luisa Alexandra Rocha da Silva","sigla":"LRS","categoria":2011,"proprio":"Luisa","apelido":"Silva","estado":"A"}
+,{"nr":241199,"nome":"António Manuel Montenegro Carvalho de Azevedo","sigla":"MM","categoria":10108,"proprio":"Manuel","apelido":"Montenegro","estado":"NA"}
+,{"nr":241207,"nome":"Manuel José Mendes Pinto Machado","sigla":"MM","categoria":10801,"proprio":"Manuel","apelido":"Machado","estado":"A"}
+,{"nr":241214,"nome":"Luís Manuel Ribeiro e Sousa","sigla":"LMRS","categoria":519,"proprio":"Luís","apelido":"Ribeiro e Sousa","estado":"A"}
+,{"nr":241223,"nome":"Ana Maria Cunha Ribeiro dos Santos Ponces Camanho","sigla":"AMC","categoria":116,"proprio":"Ana Maria","apelido":"Camanho","estado":"A"}
+,{"nr":241300,"nome":"Maria do Carmo da Silva Pereira","sigla":"MCP","categoria":116,"proprio":"Maria do Carmo","apelido":"Pereira","estado":"A"}
+,{"nr":241311,"nome":"Luis Miguel Palma Madeira","sigla":"LMM","categoria":116,"proprio":"Luis M","apelido":"Madeira","estado":"A"}
+,{"nr":241384,"nome":"Fernando Gomes Martins","sigla":"FGM","categoria":116,"proprio":"Fernando Gomes","apelido":"Martins","estado":"A"}
+,{"nr":241676,"nome":"Henrique Manuel de Castro Faria Salgado","sigla":"HMS","categoria":110,"proprio":"Henrique","apelido":"Salgado","estado":"A"}
+,{"nr":242693,"nome":"Ana Cristina Ramada Paiva Pimenta","sigla":"ACP","categoria":116,"proprio":"Ana Cristina","apelido":"Ramada Paiva","estado":"A"}
+,{"nr":242996,"nome":"Gil Manuel Magalhães de Andrade Gonçalves","sigla":"GMG","categoria":120,"proprio":"Gil Manuel","apelido":"Gonçalves","estado":"A"}
+,{"nr":243009,"nome":"Henrique do Carmo Miranda","sigla":"HCM","categoria":119,"proprio":"Henrique","apelido":"Miranda","estado":"A"}
+,{"nr":243010,"nome":"Laura de Fátima Ferrão de Paiva Martins","sigla":"LPM","categoria":116,"proprio":"Laura","apelido":"Martins","estado":"NA"}
+,{"nr":243027,"nome":"Vitor Manuel Grade Tavares","sigla":"VGT","categoria":116,"proprio":"Vitor","apelido":"Tavares","estado":"A"}
+,{"nr":244019,"nome":"Vitor Manuel Alexandre Saraiva Martins","sigla":"VMASM","categoria":19999,"proprio":"Vitor Manuel","apelido":"Martins","estado":"A"}
+,{"nr":244220,"nome":"Heitor Manuel Pereira Pinto da Cunha e Alvelos","sigla":"HMPPCA","categoria":19999,"proprio":"Heitor","apelido":"Alvelos","estado":"A"}
+,{"nr":244390,"nome":"Manuel Alexandre Vieira Baptista","sigla":"MVB","categoria":119,"proprio":"Manuel Alexandre","apelido":"Vieira Baptista","estado":"NA"}
+,{"nr":244477,"nome":"Nuno Pedro Ferreira Abrantes","sigla":"NPFA","categoria":120,"proprio":"Nuno","apelido":"Abrantes","estado":"A"}
+,{"nr":245140,"nome":"Maria Ascensão Ferreira da Silva Lopes","sigla":"MLopes","categoria":116,"proprio":"Maria Ascensão","apelido":"Lopes","estado":"A"}
+,{"nr":245335,"nome":"Carlos João Rodrigues Costa  Ramos","sigla":"CJR","categoria":119,"proprio":"Carlos","apelido":"Ramos","estado":"A"}
+,{"nr":245546,"nome":"Sara Maria Pinho Ferreira","sigla":"SPF","categoria":119,"proprio":"Sara","apelido":"Ferreira","estado":"A"}
+,{"nr":245823,"nome":"João Pedro Barata da Rocha Falcão Carneiro","sigla":"JFC","categoria":116,"proprio":"João Pedro","apelido":"Falcão Carneiro","estado":"A"}
+,{"nr":246158,"nome":"Luis Manuel Ferreira de Melo","sigla":"LM","categoria":107,"proprio":"Luis","apelido":"Melo","estado":"A"}
+,{"nr":246389,"nome":"Luis Miguel Fortuna Rodrigues Martelo","sigla":"LMM","categoria":116,"proprio":"Luis Miguel","apelido":"Martelo","estado":"A"}
+,{"nr":246398,"nome":"Manuel Fernando Ribeiro Pereira","sigla":"FP","categoria":116,"proprio":"Manuel Fernando R","apelido":"Pereira","estado":"A"}
+,{"nr":246590,"nome":"Carla Patrícia Filipe da Costa e Lopes","sigla":"CPL","categoria":125,"proprio":"Carla Patrícia","apelido":"Lopes","estado":"NA"}
+,{"nr":246608,"nome":"Carlos Daniel Diogo Matias Pintassilgo","sigla":"CDP","categoria":116,"proprio":"Carlos Daniel","apelido":"Pintassilgo","estado":"A"}
+,{"nr":246615,"nome":"Fernando Manuel Brandão Alves","sigla":"FBA","categoria":110,"proprio":"Fernando","apelido":"Brandão Alves","estado":"A"}
+,{"nr":246626,"nome":"Jorge Manuel Gomes Barbosa","sigla":"JGB","categoria":116,"proprio":"Jorge Manuel","apelido":"Gomes Barbosa","estado":"A"}
+,{"nr":246637,"nome":"Nuno Alexandre Lopes Moreira da Cruz","sigla":"NAC","categoria":119,"proprio":"Nuno Alexandre","apelido":"Cruz","estado":"A"}
+,{"nr":246644,"nome":"Nuno  Domingues Mateus Pedroso Soares","sigla":"NPS","categoria":119,"proprio":"Nuno","apelido":"Soares","estado":"A"}
+,{"nr":246653,"nome":"Pedro Álvares Ribeiro do Carmo Pacheco","sigla":"PAP","categoria":116,"proprio":"Pedro","apelido":"Pacheco","estado":"A"}
+,{"nr":246660,"nome":"Vitor Manuel Branco Martins Augusto","sigla":"VMA","categoria":120,"proprio":"Vitor","apelido":"Martins Augusto","estado":"A"}
+,{"nr":247005,"nome":"Castorina Fernanda da Silva Vieira","sigla":"CSV","categoria":116,"proprio":"Castorina","apelido":"Vieira","estado":"A"}
+,{"nr":247016,"nome":"Carlos Manuel Ramos Moutinho","sigla":"CRM","categoria":116,"proprio":"Carlos","apelido":"Moutinho","estado":"A"}
+,{"nr":247023,"nome":"António Milton Topa Gomes","sigla":"ATG","categoria":120,"proprio":"António","apelido":"Topa Gomes","estado":"A"}
+,{"nr":247120,"nome":"Ana Rosanete Lourenço Reis","sigla":"ARR","categoria":116,"proprio":"Ana Rosanete","apelido":"Reis","estado":"A"}
+,{"nr":247157,"nome":"João Alberto Vieira  de Campos Pereira Claro","sigla":"JPC","categoria":116,"proprio":"João","apelido":"Claro","estado":"A"}
+,{"nr":247326,"nome":"Pedro Luís Cerqueira Gomes da Costa","sigla":"PLC","categoria":119,"proprio":"Pedro","apelido":"Gomes da Costa","estado":"A"}
+,{"nr":247441,"nome":"Silvestre Taveira Pinho","sigla":"STP","categoria":520,"proprio":"Silvestre","apelido":"Pinho","estado":"A"}
+,{"nr":247458,"nome":"Carla Susana Santana Carmelo Rosa","sigla":"CSSCR","categoria":19999,"proprio":"Carla","apelido":"Carmelo Rosa","estado":"NA"}
+,{"nr":248015,"nome":"Leandro José Rodrigues Machado","sigla":"LRM","categoria":119,"proprio":"Leandro","apelido":"Machado","estado":"NA"}
+,{"nr":248077,"nome":"Cláudio Domingos Martins Monteiro","sigla":"CDM","categoria":116,"proprio":"Cláudio","apelido":"Monteiro","estado":"A"}
+,{"nr":248147,"nome":"Filipa Susana Caldas Pinto","sigla":"FSP","categoria":119,"proprio":"Filipa","apelido":"Pinto","estado":"NA"}
+,{"nr":248156,"nome":"José Miguel de Freitas Castro","sigla":"JMC","categoria":116,"proprio":"José Miguel","apelido":"Castro","estado":"A"}
+,{"nr":248233,"nome":"João Carlos Ribeiro Ferreira","sigla":"JCF","categoria":119,"proprio":"João Carlos","apelido":"Ferreira","estado":"NA"}
+,{"nr":248262,"nome":"Martin Ulrich de Sampaio Pimentel","sigla":"MUSP","categoria":120,"proprio":"Martin","apelido":"Sampaio Pimentel","estado":"A"}
+,{"nr":248303,"nome":"Diogo de Matos Graça Aires de Campos","sigla":"DMGAC","proprio":"Diogo Aires","apelido":"Campos","estado":"A"}
+,{"nr":248428,"nome":"Alexandra Maria Eiras Ferreira da Costa Delgado","sigla":"AMC","categoria":119,"proprio":"Alexandra","apelido":"Costa","estado":"A"}
+,{"nr":248510,"nome":"Alexandre Miguel Barbosa Valle de Carvalho","sigla":"AVC","categoria":119,"proprio":"Alexandre","apelido":"Valle de Carvalho","estado":"A"}
+,{"nr":248907,"nome":"Sandra da Conceição Barbosa Nunes","sigla":"SCBN","categoria":119,"proprio":"Sandra","apelido":"Nunes","estado":"A"}
+,{"nr":248916,"nome":"António Paulo Cerqueira Duarte","sigla":"APD","categoria":119,"proprio":"António Paulo","apelido":"Duarte","estado":"NA"}
+,{"nr":249058,"nome":"Luís Miguel Almeida da Silva","sigla":"LMAS","categoria":11005,"proprio":"Luís Miguel","apelido":"Silva","estado":"NA"}
+,{"nr":249331,"nome":"Cecília Maria Nogueira Alvarenga Santos do Vale","sigla":"CMNASV","categoria":119,"proprio":"Cecília","apelido":"Vale","estado":"A"}
+,{"nr":249340,"nome":"Xavier das Neves Romão","sigla":"XNR","categoria":119,"proprio":"Xavier","apelido":"Romão","estado":"A"}
+,{"nr":249427,"nome":"Rita Rodrigues Clemente Falcão de Berredo ","sigla":"RFB","categoria":120,"proprio":"Rita","apelido":"Falcão","estado":"A"}
+,{"nr":249526,"nome":"Mário Jorge de Seixas Pimentel","sigla":"MJSP","categoria":119,"proprio":"Mário Jorge","apelido":"Pimentel","estado":"A"}
+,{"nr":249542,"nome":"Paulo Jorge Valente Garcia","sigla":"PJG","categoria":116,"proprio":"Paulo","apelido":"Garcia","estado":"A"}
+,{"nr":249553,"nome":"Miguel Ângelo Carvalho Ferraz","sigla":"MACF","categoria":119,"proprio":"Miguel","apelido":"Ferraz","estado":"A"}
+,{"nr":249564,"nome":"Cecília do Carmo Ferreira da Silva","sigla":"CCFS","categoria":117,"proprio":"Cecília do Carmo","apelido":"Ferreira da Silva","estado":"A"}
+,{"nr":249571,"nome":"Eva Sofia Botelho Machado Barreira","sigla":"ESMB","categoria":119,"proprio":"Eva","apelido":"Barreira","estado":"A"}
+,{"nr":249580,"nome":"Filipe Manuel Rodrigues Leite de Magalhães","sigla":"FMLM","categoria":119,"proprio":"Filipe","apelido":"Magalhães","estado":"A"}
+,{"nr":249597,"nome":"João Pedro da Silva Poças Martins","sigla":"JPPM","categoria":119,"proprio":"João Pedro","apelido":"Poças Martins","estado":"A"}
+,{"nr":301332,"nome":"Joana Cassilda Rodrigues Espain Oliveira","sigla":"JCREO","categoria":120,"proprio":"Joana","apelido":"Oliveira","estado":"NA"}
+,{"nr":301336,"nome":"António Manuel Melo de Sousa Pereira","sigla":"AMSP","categoria":19999,"proprio":"António Manuel","apelido":"Sousa Pereira","estado":"NA"}
+,{"nr":304203,"nome":"João Manuel Couto das Neves","sigla":"JMCN","categoria":117,"proprio":"João","apelido":"Neves","estado":"A"}
+,{"nr":308014,"nome":"Pedro Emanuel Reis Perdigão","sigla":"PERP","categoria":119,"proprio":"Pedro","apelido":"Perdigão","estado":"NA"}
+,{"nr":310021,"nome":"Sérgio Sobral Nunes","sigla":"SSN","categoria":119,"proprio":"Sérgio","apelido":"Nunes","estado":"A"}
+,{"nr":315802,"nome":"Rui Paulo Soares Ribeiro","sigla":"RPSR","categoria":116,"proprio":"Rui","apelido":"Ribeiro","estado":"A"}
+,{"nr":320005,"nome":"Maria Helena Sousa Soares de Oliveira Braga","sigla":"MHB","categoria":116,"proprio":"Helena","apelido":"Braga","estado":"A"}
+,{"nr":320218,"nome":"Manuel Leão Rosas Castro Tavares","sigla":"MLT","categoria":120,"proprio":"Manuel","apelido":"Tavares","estado":"A"}
+,{"nr":322232,"nome":"Diógenes Domingos Azevedo Amaro Maciel","sigla":"DAM","categoria":120,"proprio":"Diógenes","apelido":"Maciel","estado":"NA"}
+,{"nr":322401,"nome":"Armando Manuel Barreiros Malheiro da Silva","sigla":"AMS","categoria":19999,"proprio":"Armando","apelido":" Malheiro da Silva","estado":"A"}
+,{"nr":322605,"nome":"Manuel Firmino da Silva Torres","sigla":"MFST","categoria":120,"proprio":"Manuel","apelido":"Firmino","estado":"A"}
+,{"nr":323611,"nome":"Paulo Alexandre de Sousa Dias","sigla":"PAD","categoria":11007,"proprio":"Paulo","apelido":"Sousa Dias","estado":"A"}
+,{"nr":323806,"nome":"Maria Helena Osório Pestana de Vasconcelos","sigla":"MHV","categoria":116,"proprio":"Maria Helena","apelido":"Vasconcelos","estado":"A"}
+,{"nr":323817,"nome":"João Manuel do Paço Quesado Delgado","sigla":"JQD","categoria":112,"proprio":"João","apelido":"Quesado Delgado","estado":"A"}
+,{"nr":324207,"nome":"José de Almeida Morgado","sigla":"JAM","categoria":120,"proprio":"José","apelido":"Morgado","estado":"A"}
+,{"nr":324805,"nome":"Hugo Alexandre Pereira Caraslindas","sigla":"HAPC","categoria":119,"proprio":"Hugo","apelido":"Caraslindas","estado":"NA"}
+,{"nr":326212,"nome":"Daniel Cardoso de Moura","sigla":"DCM","categoria":19995,"proprio":"Daniel","apelido":"Moura","estado":"A"}
+,{"nr":334829,"nome":"Francisco José Batista Salzedas","sigla":"FJBS","categoria":116,"proprio":"Francisco","apelido":"Salzedas","estado":"A"}
+,{"nr":342229,"nome":"José Carlos de Queirós Pinto","sigla":"ZP","categoria":11002,"proprio":"José","apelido":"Queirós Pinto","estado":"A"}
+,{"nr":343486,"nome":"Bernardo Sobrinho Simões de Almada Lobo","sigla":"BAL","categoria":116,"proprio":"Bernardo","apelido":"Almada Lobo","estado":"A"}
+,{"nr":343497,"nome":"José António Silva de Carvalho Campos e Matos","sigla":"JCM","categoria":125,"proprio":"José","apelido":"Campos e Matos","estado":"NA"}
+,{"nr":344485,"nome":"Carla Sofia Assunção de Sá Torrão Martins Leal","sigla":"ST","categoria":375,"proprio":"Sofia","apelido":"Torrão","estado":"A"}
+,{"nr":345891,"nome":"Ana Carla Fernandes Damião Madeira","sigla":"ACM","categoria":2003,"proprio":"Ana Carla","apelido":"Madeira","estado":"A"}
+,{"nr":345923,"nome":"Ana Isabel Palmero Marrero","sigla":"AIPM","categoria":11002,"proprio":"Ana Isabel","apelido":"Marrero","estado":"A"}
+,{"nr":345989,"nome":"António Manuel Nogueira Santos","sigla":"AMNS","categoria":11007,"proprio":"António","apelido":"Nogueira Santos","estado":"NA"}
+,{"nr":346092,"nome":"Carina Madalena Martins Machado","sigla":"CMMM","categoria":120,"proprio":"Carina","apelido":"Machado","estado":"NA"}
+,{"nr":347493,"nome":"Ricardo Jorge Nogueira dos Santos","sigla":"RJNS","categoria":112,"proprio":"Ricardo","apelido":"Nogueira Santos","estado":"A"}
+,{"nr":350481,"nome":"Paulo Alexandre  Paiva de Andrade","sigla":"PPA","categoria":10119,"proprio":"Paulo","apelido":"Andrade","estado":"A"}
+,{"nr":350719,"nome":"Rui Pedro Sobral Xavier Silvano","sigla":"RPSXS","categoria":120,"proprio":"Rui","apelido":"Silvano","estado":"A"}
+,{"nr":350850,"nome":"Szabolcs Varga","sigla":"SV","categoria":11002,"proprio":"Szabolcs","apelido":"Varga","estado":"A"}
+,{"nr":351505,"nome":"Pedro Manuel Cardoso Teixeira","sigla":"PMCT","categoria":19995,"proprio":"Pedro","apelido":"Cardoso Teixeira","estado":"NA"}
+,{"nr":353972,"nome":"André Monteiro de Oliveira Restivo","sigla":"AOR","categoria":119,"proprio":"André","apelido":"Oliveira Restivo","estado":"A"}
+,{"nr":354894,"nome":"Sílvia Cardinal Pinho","sigla":"scp","categoria":120,"proprio":"Sílvia","apelido":"Cardinal Pinho","estado":"A"}
+,{"nr":355350,"nome":"Luís Garcia Braga da Cruz","sigla":"LGBC","categoria":519,"proprio":"Luís","apelido":"Braga da Cruz","estado":"A"}
+,{"nr":359758,"nome":"Pedro Miguel Barbosa Alves Costa","sigla":"PMBAC","categoria":119,"proprio":"Pedro","apelido":"Alves Costa","estado":"A"}
+,{"nr":359969,"nome":"Carlos Filipe Ferreira de Sousa","sigla":"CFFS","categoria":119,"proprio":"Carlos","apelido":"Sousa","estado":"A"}
+,{"nr":360146,"nome":"José Luís Alves Soares Barbosa","sigla":"JLASB","categoria":19995,"proprio":"José Luís","apelido":"Barbosa","estado":"NA"}
+,{"nr":360184,"nome":"Diogo Manuel Ribeiro Ferreira","sigla":"DRF","categoria":117,"proprio":"Diogo","apelido":"Ribeiro Ferreira","estado":"NA"}
+,{"nr":360191,"nome":"Rui Alexandre Lopes Baltazar Micaelo","sigla":"RALBM","categoria":120,"proprio":"Rui","apelido":"Micaelo","estado":"A"}
+,{"nr":360427,"nome":"Jorge Daniel Morais Leite","sigla":"JDML","categoria":19995,"proprio":"Jorge Daniel","apelido":"Leite","estado":"NA"}
+,{"nr":362241,"nome":"Luís António Diniz Fernandes de Morais Sarmento","sigla":"LAS","categoria":120,"proprio":"Luís António","apelido":"Sarmento","estado":"NA"}
+,{"nr":367235,"nome":"Jaime dos Santos Cardoso","sigla":"JSC","categoria":117,"proprio":"Jaime","apelido":"Cardoso","estado":"A"}
+,{"nr":369837,"nome":"Joana Cassilda Rodrigues Espain de Oliveira","sigla":"JCREO","categoria":116,"proprio":"Joana","apelido":"Oliveira","estado":"A"}
+,{"nr":371086,"nome":"Bárbara Rangel Carvalho","sigla":"BRC","categoria":119,"proprio":"Bárbara","apelido":"Carvalho","estado":"A"}
+,{"nr":373039,"nome":"Jaime Sousa Dias","sigla":"JSD","categoria":19995,"proprio":"Jaime","apelido":"Dias","estado":"NA"}
+,{"nr":380432,"nome":"Maria Gabriela Beirão dos Santos","sigla":"GB","categoria":120,"proprio":"Gabriela","apelido":"Beirão","estado":"A"}
+,{"nr":380672,"nome":"Alexandre Wragg Freitas","sigla":"AWF","categoria":11007,"proprio":"Alexandre","apelido":"Freitas","estado":"NA"}
+,{"nr":382032,"nome":"Pedro André Lameiro Abrantes","sigla":"PALA","categoria":119,"proprio":"Pedro","apelido":"Lameiro Abrantes","estado":"NA"}
+,{"nr":383680,"nome":"Rui Alexandre Carvalhais Costa Padrão","sigla":"RACCP","categoria":120,"proprio":"Rui Alexandre","apelido":"Padrão","estado":"A"}
+,{"nr":383864,"nome":"Nuno Costa Martins de Faria","sigla":"NMF","categoria":11007,"proprio":"Nuno","apelido":"Martins de Faria","estado":"NA"}
+,{"nr":383875,"nome":"José Miguel Pereira dos Santos de Oliveira","sigla":"JMO","categoria":19995,"proprio":"José Miguel ","apelido":"Oliveira","estado":"A"}
+,{"nr":384465,"nome":"Hélder Filipe Pinto de Oliveira","sigla":"HFPO","categoria":19995,"proprio":"Hélder Filipe","apelido":"Pinto de Oliveira","estado":"A"}
+,{"nr":384641,"nome":"Ana Sofia Moreira dos Santos Guimarães Teixeira","sigla":"ASMSG","categoria":119,"proprio":"Ana","apelido":"Sofia Guimarães","estado":"A"}
+,{"nr":388249,"nome":"João Francisco Cordeiro de Oliveira Barros ","sigla":"JFCOB","categoria":110,"proprio":"João","apelido":"Barros","estado":"A"}
+,{"nr":392236,"nome":"Pedro Lencastre Torres de Castro Henriques","sigla":"PLTCH","categoria":2078,"proprio":"Pedro","apelido":"Castro Henriques","estado":"NA"}
+,{"nr":394032,"nome":"Pedro Miguel Mendes de Oliveira","sigla":"PMMO","categoria":11007,"proprio":"Pedro ","apelido":"Oliveira","estado":"NA"}
+,{"nr":398850,"nome":"Miguel Ângelo da Silva Jorge","sigla":"MSJ1","categoria":112,"proprio":"Miguel Ângelo","apelido":"Jorge","estado":"A"}
+,{"nr":399037,"nome":"John Button Kenneth","sigla":"JBK","categoria":704,"proprio":"Kenneth","apelido":"Button","estado":"A"}
+,{"nr":399446,"nome":"António Augusto Areosa Martins","sigla":"AAAM","categoria":11002,"proprio":"António","apelido":"Areosa Martins","estado":"A"}
+,{"nr":400042,"nome":"Gaspar de Coimbra Torres de Queiroz Vasconcelos e Lencastre","sigla":"GCTQVL","categoria":541,"proprio":"Gaspar","apelido":"Lencastre","estado":"NA"}
+,{"nr":403670,"nome":"António José dos Santos Silva","sigla":"AJSS","categoria":116,"proprio":"António","apelido":"Santos Silva","estado":"A"}
+,{"nr":403865,"nome":"Filipe José Menezes Mergulhão","sigla":"FJMM","categoria":116,"proprio":"Filipe","apelido":"Mergulhão","estado":"A"}
+,{"nr":404651,"nome":"Rui Jorge Pereira Gonçalves","sigla":"RJPG","categoria":11007,"proprio":"Rui","apelido":"Gonçalves","estado":"A"}
+,{"nr":405449,"nome":"Henrique Daniel de Avelar Lopes Cardoso","sigla":"HALC","categoria":120,"proprio":"Henrique","apelido":"Lopes Cardoso","estado":"A"}
+,{"nr":406448,"nome":"Rita Mafalda Teixeira Estacio","sigla":"RMTE","categoria":125,"proprio":"Rita","apelido":"Estácio","estado":"NA"}
+,{"nr":406844,"nome":"Carla Mónica Santos Dias Pereira","sigla":"CMSDP","categoria":117,"proprio":"Carla","apelido":"Santos","estado":"A"}
+,{"nr":407447,"nome":"Nuno Honório Rodrigues Flores","sigla":"NHF","categoria":120,"proprio":"Nuno","apelido":"Flores","estado":"A"}
+,{"nr":407454,"nome":"Francisco Antonio Fernandes Reinaldo","sigla":"FAFR","categoria":19995,"proprio":"Francisco","apelido":"Reinaldo","estado":"NA"}
+,{"nr":408099,"nome":"António Rui de Oliveira Santos Silva Melro","sigla":"ARSM","categoria":11002,"proprio":"António Rui","apelido":"Melro","estado":"A"}
+,{"nr":408251,"nome":"Vânia Maria Alves Gomes Chibante","sigla":"VMGC","categoria":11007,"proprio":"Vânia ","apelido":"Chibante","estado":"A"}
+,{"nr":409027,"nome":"Monica Luisa Ribeiro Mendes de Sousa","sigla":"MMS2","categoria":19999,"proprio":"Monica","apelido":"Sousa","estado":"A"}
+,{"nr":409814,"nome":"Corália Maria Fortuna de Brito Vicente","sigla":"CMFBV","categoria":19999,"proprio":"Corália","apelido":"Vicente","estado":"A"}
+,{"nr":409902,"nome":"Maria João Gameiro de Mascarenhas Saraiva","sigla":"MJGMS","categoria":19999,"proprio":"Maria João","apelido":"Saraiva","estado":"A"}
+,{"nr":410066,"nome":"Maria da Conceição Santos Silva Rangel Gonçalves","sigla":"MCG","categoria":19999,"proprio":"Maria da Conceição","apelido":"Gonçalves","estado":"A"}
+,{"nr":410602,"nome":"Denisa Maria de Melo Vasques Mendonça","sigla":"DVM","categoria":19999,"proprio":"Denisa","apelido":"Mendonça","estado":"NA"}
+,{"nr":410631,"nome":"José Luís de Jesus Baldaia","sigla":"JLJB","categoria":19999,"proprio":"Luis","apelido":"Baldaia","estado":"A"}
+,{"nr":410826,"nome":"Augusta Maria Ferreira Rebelo da Costa","sigla":"AMFRC","categoria":19999,"proprio":"Augusta","apelido":"Costa","estado":"A"}
+,{"nr":410903,"nome":"Ana Margarida Moreira Leitão de Barros Martins Damas","sigla":"AMD","categoria":19999,"proprio":"Ana Margarida","apelido":"Damas","estado":"A"}
+,{"nr":411586,"nome":"Alexandre Manuel da Silva Lobo da Cunha","sigla":"AMSLC","categoria":19999,"proprio":"Alexandre","apelido":"Cunha","estado":"A"}
+,{"nr":411733,"nome":"Mário Manuel da Silva Leite de Sousa","sigla":"MMSLS","categoria":19999,"proprio":"Mário","apelido":"Sousa","estado":"A"}
+,{"nr":411814,"nome":"Maria Strecht Monteiro Mata de Almeida","sigla":"MSA","categoria":19999,"proprio":"Maria Strecht","apelido":"Almeida","estado":"A"}
+,{"nr":411832,"nome":"Rui Appelberg Gaio Lima","sigla":"RAGL","categoria":19999,"proprio":"Rui ","apelido":"Lima","estado":"A"}
+,{"nr":411887,"nome":"Maria Adelina Coelho Ribeiro Costa","sigla":"MARC","categoria":19999,"proprio":"Maria Adelina","apelido":"Costa","estado":"A"}
+,{"nr":412123,"nome":"Manuel João Rua Vilanova","sigla":"MJRV","categoria":19999,"proprio":"Manuel","apelido":"Vilanova","estado":"A"}
+,{"nr":412150,"nome":"Alexandre Tiedtke Quintanilha","sigla":"ATQ","categoria":19999,"proprio":"Alexandre","apelido":"Quintanilha","estado":"A"}
+,{"nr":412266,"nome":"Francisco José Ferreira Monteiro","sigla":"FJFM","categoria":19999,"proprio":"Francisco","apelido":"Monteiro","estado":"A"}
+,{"nr":412275,"nome":"José Augusto Caldeira Pereira","sigla":"JACP","categoria":19999,"proprio":"José","apelido":"Pereira","estado":"A"}
+,{"nr":412770,"nome":"Rui Manuel Cerqueira Magalhães","sigla":"RMCM","categoria":19999,"proprio":"Rui Manuel","apelido":"Magalhães","estado":"A"}
+,{"nr":412787,"nome":"Luís Miguel Gales Pereira Pinto","sigla":"LMG","categoria":19999,"proprio":"Luís Miguel","apelido":"Gales","estado":"A"}
+,{"nr":413203,"nome":"Artur Manuel Perez Neves Águas","sigla":"AMPN","categoria":19999,"proprio":"Artur","apelido":"Águas","estado":"A"}
+,{"nr":413380,"nome":"Maria do Rosário Rodrigues de Almeida Martins","sigla":"MRRAM","categoria":19999,"proprio":"Maria do Rosário","apelido":"Martins","estado":"A"}
+,{"nr":413399,"nome":"Lúcia Maria das Candeias Guilhermino","sigla":"LMCG","categoria":19999,"proprio":"Lúcia","apelido":"Guilhermino","estado":"A"}
+,{"nr":413432,"nome":"Luís Manuel de Mira Vieira","sigla":"LMV","categoria":19999,"proprio":"Luís","apelido":"Mira Vieira","estado":"A"}
+,{"nr":417076,"nome":"Mário António Lage Alves Marques","sigla":"MALAM","categoria":125,"proprio":"Mário","apelido":"Marques","estado":"A"}
+,{"nr":417100,"nome":"Ana Paula Gomes Moreira Pêgo","sigla":"APGMP","categoria":19999,"proprio":"Ana Paula","apelido":"Pêgo","estado":"A"}
+,{"nr":418448,"nome":"Ana Margarida Vaz Duarte Oliveira e Sá","sigla":"AMVDOS","categoria":119,"proprio":"Ana","apelido":"Vaz Sá","estado":"A"}
+,{"nr":418921,"nome":"João Carlos Godinho Faria dos Santos","sigla":"JCGFS","categoria":112,"proprio":"João Carlos","apelido":"Santos","estado":"A"}
+,{"nr":419241,"nome":"Rosaldo José Fernandes Rossetti","sigla":"RR","categoria":116,"proprio":"Rosaldo","apelido":"Rossetti","estado":"A"}
+,{"nr":419296,"nome":"António Pedro de Pinto de Brito Duarte Silva","sigla":"APPBDS","categoria":19999,"proprio":"António Pedro","apelido":"Silva","estado":"NA"}
+,{"nr":419481,"nome":"Helder Filipe Duarte Leite","sigla":"HFDL","categoria":117,"proprio":"Helder","apelido":"Leite","estado":"A"}
+,{"nr":419757,"nome":"Miguel Ângelo Dias Azenha","sigla":"MADA","categoria":120,"proprio":"Miguel","apelido":"Azenha","estado":"NA"}
+,{"nr":419780,"nome":"Manuel José Moreira","sigla":"MJM","categoria":117,"proprio":"Manuel","apelido":"Moreira","estado":"A"}
+,{"nr":419827,"nome":"José Carlos dos Santos Carvalho Principe","sigla":"JCP","categoria":519,"proprio":"José","apelido":"Principe","estado":"A"}
+,{"nr":419920,"nome":"António Fernando Vasconcelos Cunha Castro Coelho","sigla":"AFCC","categoria":116,"proprio":"António","apelido":"Coelho","estado":"A"}
+,{"nr":420154,"nome":"André Gomes Coelho Gouveia","sigla":"AGCG","categoria":120,"proprio":"André","apelido":"Gouveia","estado":"A"}
+,{"nr":420190,"nome":"João Pedro Gomes Moreira Pêgo","sigla":"JPGMP","categoria":117,"proprio":"João Pedro","apelido":"Pêgo","estado":"A"}
+,{"nr":420279,"nome":"Marta Ramilo Abrantes","sigla":"MRA","categoria":112,"proprio":"Marta","apelido":"Abrantes","estado":"A"}
+,{"nr":420507,"nome":"Eduardo Manuel Cabrita Fortunato","sigla":"EMCF","categoria":117,"proprio":"Eduardo Manuel","apelido":"Fortunato","estado":"A"}
+,{"nr":420666,"nome":"João Mário Rodrigues Miranda","sigla":"JMM","categoria":19997,"proprio":"João Mário","apelido":"Miranda","estado":"NA"}
+,{"nr":420880,"nome":"Vitor Jorge Pais Vilar","sigla":"VJPV","categoria":11002,"proprio":"Vitor","apelido":"Vilar","estado":"A"}
+,{"nr":421296,"nome":"Liliana Maria da Silva Cunha","sigla":"LMSC","categoria":19995,"proprio":"Liliana","apelido":"Cunha","estado":"NA"}
+,{"nr":421355,"nome":"Mónica Sofia Neves de Freitas Oliveira","sigla":"MSNFO","categoria":112,"proprio":"Mónica","apelido":"Oliveira","estado":"A"}
+,{"nr":422107,"nome":"Nuno Jose da Silva Pedregal Marques Garcia","sigla":"NJG","categoria":19995,"proprio":"Nuno Jose","apelido":"Garcia","estado":"NA"}
+,{"nr":422136,"nome":"Pedro Manuel Henriques da Cunha Abreu","sigla":"PMA","categoria":19997,"proprio":"Pedro Manuel","apelido":"Abreu","estado":"NA"}
+,{"nr":422417,"nome":"Katja Christiana Tschimmel","sigla":"KCT","categoria":19995,"proprio":"Katja","apelido":"Tschimmel","estado":"A"}
+,{"nr":423531,"nome":"João António Morais da Cunha Aragão","sigla":"JAMCA","categoria":19995,"proprio":"João António ","apelido":"Aragão","estado":"NA"}
+,{"nr":423656,"nome":"Vítor Manuel da Silva Leal","sigla":"VMSL","categoria":117,"proprio":"Vítor","apelido":"Leal","estado":"A"}
+,{"nr":423771,"nome":"António José do Nascimento Queimada","sigla":"AJQ","categoria":112,"proprio":"António","apelido":"Queimada","estado":"A"}
+,{"nr":423940,"nome":"Vera Lucia Migueis Oliveira","sigla":"VLMO","categoria":282,"proprio":"Vera ","apelido":" Oliveira","estado":"A"}
+,{"nr":424406,"nome":"Vasco  Hugo Vinhas Gonçalves Moreira","sigla":"VVM","categoria":19997,"proprio":"Vasco","apelido":"Vinhas","estado":"NA"}
+,{"nr":424415,"nome":"Daniel Augusto Gama de Castro Silva","sigla":"DCS","categoria":19997,"proprio":"Daniel","apelido":"Silva","estado":"NA"}
+,{"nr":424422,"nome":"João Francisco Machado Gomes da Silva","sigla":"JFMGS","categoria":19997,"proprio":"João Francisco","apelido":"Silva","estado":"NA"}
+,{"nr":424521,"nome":"António Manuel Correia Pereira","sigla":"AMCP","categoria":120,"proprio":"António","apelido":"Pereira","estado":"A"}
+,{"nr":424530,"nome":"António Jesus Monteiro de Castro","sigla":"AJMC","categoria":120,"proprio":"António","apelido":"Castro","estado":"A"}
+,{"nr":424547,"nome":"Patrícia Miguel Barbosa Alves Costa","sigla":"PMBAC","categoria":125,"proprio":"Patríca ","apelido":"Costa","estado":"NA"}
+,{"nr":424824,"nome":"Luís Alexandre Machado da Rocha","sigla":"LAR","categoria":117,"proprio":"Luis","apelido":"Rocha","estado":"NA"}
+,{"nr":425063,"nome":"Pedro Miguel Correia Mendes","sigla":"PMCM","categoria":19997,"proprio":"Pedro","apelido":"Mendes","estado":"NA"}
+,{"nr":425070,"nome":"Artur Jorge da Silva Rocha","sigla":"AJSR","categoria":19995,"proprio":"Artur","apelido":"Rocha","estado":"NA"}
+,{"nr":426372,"nome":"Rafael Gomes Fernandes","sigla":"RGF","categoria":19995,"proprio":"Rafael","apelido":"Fernandes","estado":"NA"}
+,{"nr":426785,"nome":"Hugo Miguel Parente Lima","sigla":"HMLP","categoria":120,"proprio":"Hugo","apelido":"Lima","estado":"NA"}
+,{"nr":427120,"nome":"Carlos António Rocha Moreira da Silva","sigla":"CARMS","categoria":519,"proprio":"Carlos","apelido":"Silva","estado":"A"}
+,{"nr":427175,"nome":"José Joaquim Romão de Sousa","sigla":"JJRS","categoria":519,"proprio":"José","apelido":"Romão de Sousa","estado":"A"}
+,{"nr":427186,"nome":"Maria José Fernandes Vaz Lourenço Marques","sigla":"MJFVLM","categoria":117,"proprio":"Maria José","apelido":"Marques","estado":"A"}
+,{"nr":427193,"nome":"Jorge Manuel Moreira dos Santos","sigla":"JMMS","categoria":117,"proprio":"Jorge","apelido":"Santos","estado":"A"}
+,{"nr":427245,"nome":"Rui Alexandre Sousa da Costa Novais","sigla":"RASCN","categoria":19999,"proprio":"Rui","apelido":"Novais","estado":"A"}
+,{"nr":427289,"nome":"Eduardo da Costa Freitas dos Santos","sigla":"ECFS","categoria":19995,"proprio":"Eduardo","apelido":"Santos","estado":"NA"}
+,{"nr":427614,"nome":"Alípio José Silva da Torre","sigla":"AJST","categoria":541,"proprio":"Alípio","apelido":"Torre","estado":"A"}
+,{"nr":428387,"nome":"Ramiro Carneiro Martins","sigla":"RCM","categoria":11002,"proprio":"Ramiro","apelido":"Martins","estado":"A"}
+,{"nr":428738,"nome":"Elsa Maria Silva Carvalho","sigla":"EMSC","categoria":124,"proprio":"Elsa","apelido":"Carvalho","estado":"A"}
+,{"nr":429331,"nome":"Francisco Reis Lima","sigla":"FRL","categoria":19995,"proprio":"Francisco ","apelido":"Lima","estado":"A"}
+,{"nr":429571,"nome":"João Alfredo Massano Labescat da Silva","sigla":"JAL","categoria":19995,"proprio":"João","apelido":"Labescat","estado":"A"}
+,{"nr":429782,"nome":"Maria Alexandra Neves Soares Torgal Lobo Xavier","sigla":"MANSTLX","categoria":19995,"proprio":"Maria Alexandra","apelido":"Xavier","estado":"A"}
+,{"nr":430606,"nome":"Viviana Manuela Tenedório Matos da Silva ","sigla":"VMTMS","categoria":112,"proprio":"Viviana ","apelido":"Silva ","estado":"A"}
+,{"nr":430767,"nome":"Ana Paula Mora Tavares ","sigla":"APMT","categoria":11002,"proprio":"Ana ","apelido":"Tavares ","estado":"A"}
+,{"nr":430916,"nome":"João Rui Lago Guimarães Machado Vaz","sigla":"JMV","categoria":120,"proprio":"João","apelido":"Machado Vaz","estado":"A"}
+,{"nr":431922,"nome":"Ricardo Santos Morla","sigla":"RSM","categoria":117,"proprio":"Ricardo","apelido":"Morla","estado":"A"}
+,{"nr":432145,"nome":"Pedro Manuel da Silva Quelhas ","sigla":"PMSQ","categoria":117,"proprio":"Pedro ","apelido":"Quelhas ","estado":"A"}
+,{"nr":432154,"nome":"Oscar Rodriguez Figueiras","sigla":"ORF","categoria":112,"proprio":"Oscar","apelido":"Figueiras","estado":"A"}
+,{"nr":432161,"nome":"Eduardo Alberto Borges da Silva","sigla":"EABS","categoria":112,"proprio":"Eduardo","apelido":"Silva","estado":"A"}
+,{"nr":432172,"nome":"Sónia Alexandra Correia Carabineiro","sigla":"SACC","categoria":112,"proprio":"Sónia","apelido":"Carabineiro","estado":"A"}
+,{"nr":432183,"nome":"Maria Manuela Vilarinho Ferreira Oliveira","sigla":"MMVFO","categoria":112,"proprio":"Maria Manuela ","apelido":"Oliveira","estado":"A"}
+,{"nr":432471,"nome":"Luís Jorge Trindade Certo ","sigla":"LJTC","categoria":282,"proprio":"Luís ","apelido":"Certo ","estado":"A"}
+,{"nr":432835,"nome":"Meriem Lamghari Moubarrad","sigla":"MLM","categoria":19999,"proprio":"Meriem","apelido":"Lamghari ","estado":"A"}
+,{"nr":444356,"nome":"Alberto Sérgio de Sá Rodrigues Miguel","sigla":"ASSRM","categoria":519,"proprio":"Alberto","apelido":"Miguel","estado":"A"}
+,{"nr":444464,"nome":"Milton Jorge Correia de Sousa","sigla":"MJCS","categoria":19995,"proprio":"Milton","apelido":"Sousa","estado":"NA"}
+,{"nr":444774,"nome":"Miguel Fernando Tato Diogo","sigla":"MFTD","categoria":19999,"proprio":"Miguel","apelido":"Diogo","estado":"A"}
+,{"nr":444792,"nome":"Pedro Miguel Guimarães Pires Moreira","sigla":"pmgpm","categoria":11002,"proprio":"Pedro ","apelido":" Moreira","estado":"A"}
+,{"nr":445920,"nome":"Dirk Christian Elias","sigla":"DCE","categoria":519,"proprio":"Dirk ","apelido":"Elias","estado":"A"}
+,{"nr":446295,"nome":"Paulo César Rodrigues de Lima Júnior","sigla":"CRLJ","categoria":19995,"proprio":"Paulo","apelido":"Júnior","estado":"NA"}
+,{"nr":446903,"nome":"Carlos Alberto Barbosa da Cunha Mendonça Guedes","sigla":"CABCMG","categoria":19999,"proprio":"Carlos Alberto","apelido":"Guedes","estado":"A"}
+,{"nr":447106,"nome":"Carlos Miguel Correia Albuquerque","sigla":"CMCA1","categoria":125,"proprio":"Carlos","apelido":"Albuquerque","estado":"A"}
+,{"nr":447124,"nome":"Carla Sofia Carvalho Martins","sigla":"CSCM","categoria":120,"proprio":"Carla","apelido":"Martins","estado":"A"}
+,{"nr":447142,"nome":"Miguel Botelho Gomes Barbosa","sigla":"MBGB","categoria":19995,"proprio":"Miguel","apelido":"Barbosa","estado":"A"}
+,{"nr":447283,"nome":"Fernando Arménio da Costa Castro e Fontes","sigla":"FACCF","categoria":110,"proprio":"Fernando","apelido":"Fontes ","estado":"A"}
+,{"nr":447984,"nome":"Gerald Bernard Sheble","sigla":"GBS","categoria":519,"proprio":"Gerard","apelido":"Sheble","estado":"A"}
+,{"nr":448141,"nome":"Maria de Lurdes Ribeiro Lopes","sigla":"mlrl","categoria":19997,"proprio":"Maria de Lurdes Ribeiro","apelido":"Lopes","estado":"A"}
+,{"nr":448329,"nome":"Jorge Manuel Resende Vieira Facão","sigla":"JVF","categoria":11002,"proprio":"Jorge","apelido":"Facão","estado":"A"}
+,{"nr":448503,"nome":"Maria de Lurdes Proença de Amorim Dinis","sigla":"MLPAD","categoria":117,"proprio":"Maria de Lurdes","apelido":"Dinis","estado":"A"}
+,{"nr":448725,"nome":"David  Kelvin Allen","sigla":"DA","categoria":19995,"proprio":"David","apelido":"Allen","estado":"NA"}
+,{"nr":448732,"nome":"Perpétua da Conceição Pinto do Ó","sigla":"PCP1","categoria":19999,"proprio":"Perpétua","apelido":"Ó","estado":"A"}
+,{"nr":448910,"nome":"Manuel Jose Vieira Simões","sigla":"MJVS","categoria":117,"proprio":"Manuel José","apelido":"Simões","estado":"A"}
+,{"nr":449089,"nome":"Mónica Frias da Costa Paz Barroso","sigla":"MFCPB","categoria":19999,"proprio":"Mónica","apelido":"Barroso","estado":"A"}
+,{"nr":449096,"nome":"Pedro Miguel Ferreira Martins Arezes","sigla":"PMFMA","categoria":19999,"proprio":"Pedro","apelido":"Arezes","estado":"A"}
+,{"nr":449742,"nome":"António Casimiro de Freitas Borges Barreto Archer","sigla":"ACFBA","categoria":120,"proprio":"António ","apelido":"Archer","estado":"A"}
+,{"nr":449823,"nome":"Marta Soares Ferreira da Silva Rocha","sigla":"MSFSR","categoria":11007,"proprio":"Marta","apelido":"Rocha","estado":"A"}
+,{"nr":449830,"nome":"Fernanda Maria dos Santos Teixeira Torres","sigla":"FMSTT","categoria":120,"proprio":"Fernanda","apelido":"Torres","estado":"A"}
+,{"nr":449856,"nome":"João Manuel Paiva Cardoso","sigla":"JMPC","categoria":110,"proprio":"João","apelido":"Paiva","estado":"A"}
+,{"nr":450901,"nome":"Rui Jorge Reis Gomes","sigla":"RJRG","categoria":19995,"proprio":"Rui","apelido":"Gomes","estado":"A"}
+,{"nr":450994,"nome":"Hugo José Sereno Lopes Ferreira","sigla":"HJSLF","categoria":19995,"proprio":"Hugo","apelido":"Ferreira","estado":"A"}
+,{"nr":451018,"nome":"Teresa Cristina de Sousa Azevedo","sigla":"TCSA","categoria":19995,"proprio":"Teresa","apelido":"Azevedo","estado":"A"}
+,{"nr":451025,"nome":"Claudia Melania Chituc","sigla":"CMC","categoria":19995,"proprio":"Claudia","apelido":"Chituc","estado":"A"}
+,{"nr":451399,"nome":"Sérgio Maciel dos Santos Neiva","sigla":"SMSN","categoria":120,"proprio":"Sérgio","apelido":"Neiva","estado":"A"}
+,{"nr":451414,"nome":"Maria Josefina Figueira Ferreira","sigla":"MJFF","categoria":541,"proprio":"Josefina","apelido":"Ferreira","estado":"A"}
+,{"nr":451715,"nome":"Manuel José Moniz da Cunha","sigla":"MJMC","categoria":19995,"proprio":"Manuel","apelido":"Cunha","estado":"NA"}
+,{"nr":452538,"nome":"Maria Paula Macedo Rocha Malonek","sigla":"PRM","categoria":107,"proprio":"Paula","apelido":"Rocha Malonek","estado":"A"}
+,{"nr":452644,"nome":"Luis Miguel Pinho de Almeida","sigla":"LDA","categoria":110,"proprio":"Luis ","apelido":" Almeida","estado":"A"}
+,{"nr":452884,"nome":"Manuel Eduardo Lobão de Sousa Aroso","sigla":"MEA","categoria":19995,"proprio":"Manuel","apelido":"Aroso","estado":"A"}
+,{"nr":453681,"nome":"Ana Maria Azevedo Neves","sigla":"AMAN","categoria":19995,"proprio":"Ana ","apelido":"Neves","estado":"A"}
+,{"nr":455155,"nome":"Maria Margarida Martins Guerra Pedrosa","sigla":"MMP","categoria":117,"proprio":"Margarida","apelido":"Pedrosa","estado":"A"}
+,{"nr":461135,"nome":"Francisco Carlos Figueiredo e Melo de  Brito","sigla":"FB","categoria":19995,"proprio":"Francisco","apelido":"Brito","estado":"A"}
+,{"nr":461205,"nome":"Carlos Coelho Leal Monteiro Moreira","sigla":"CLM","categoria":117,"proprio":"Carlos ","apelido":"Moreira","estado":"A"}
+,{"nr":461337,"nome":"Pedro Aires Moreira Montenegro e Almeida","sigla":"PMA","categoria":541,"proprio":"Pedro","apelido":"Almeida","estado":"A"}
+,{"nr":461559,"nome":"Thomas Daniel Wilson","sigla":"TDW","categoria":19995,"proprio":"Thomas","apelido":"Wilson","estado":"NA"}
+,{"nr":462105,"nome":"Mariana Rita Ramos Seabra","sigla":"MRRS","categoria":19995,"proprio":"Mariana","apelido":"Seabra","estado":"A"}
+,{"nr":462141,"nome":"Jorge Miguel Meleiro Sobrado","sigla":"JMMS","categoria":19995,"proprio":"Jorge","apelido":"Sobrado","estado":"A"}
+,{"nr":811005,"nome":"Alexandre Tiedtke Quintanilha","sigla":"ATQ","categoria":19999,"proprio":"Alexandre","apelido":"Quintanilha","estado":"NA"}
+,{"nr":811007,"nome":"Ana Margarida Moreira Leitão de Barros Martins Damas","sigla":"AMMLBMD","categoria":19999,"proprio":"Ana Margarida","apelido":"Damas","estado":"NA"}
+,{"nr":811017,"nome":"Arnaldo António de Moura Silvestre Videira","sigla":"AV","categoria":19999,"proprio":"Arnaldo","apelido":"Videira","estado":"NA"}
+,{"nr":811065,"nome":"Luís Manuel de Mira Vieira","sigla":"LMMV","categoria":19999,"proprio":"Luís","apelido":"Vieira","estado":"NA"}
+,{"nr":811069,"nome":"Maria Adelina Coelho Ribeiro Costa","sigla":"MACRC","categoria":19999,"proprio":"Maria Adelina","apelido":"Costa","estado":"NA"}
+,{"nr":811077,"nome":"Maria da Conceição Santos Silva Rangel Gonçalves","sigla":"MCSSR","categoria":19999,"proprio":"Maria da Conceição","apelido":"Gonçalves","estado":"NA"}
+,{"nr":811091,"nome":"Maria Strecht Monteiro Mata de Almeida","sigla":"MSMMA","categoria":19999,"proprio":"Maria Strecht","apelido":"Almeida","estado":"NA"}
+,{"nr":811133,"nome":"Maria Leonor Hermenegildo Teles Grilo","sigla":"MLHTG","categoria":19999,"proprio":"Maria Leonor","apelido":"Grilo","estado":"NA"}
+,{"nr":811149,"nome":"Luís Miguel Gales Pereira Pinto","sigla":"LMG","categoria":19999,"proprio":"Luís Miguel","apelido":"Gales","estado":"NA"}
+,{"nr":900060,"nome":"Maria Noémia Martins Sampaio","sigla":"MNS","categoria":112,"proprio":"Maria Noémia","apelido":"Sampaio","estado":"NA"}
+,{"nr":900140,"nome":"Francisco Avelino da Silva Freitas","sigla":"FSF","categoria":11007,"proprio":"Francisco Avelino","apelido":"da Silva","estado":"NA"}
+,{"nr":900350,"nome":"Maria Manuela Pinho Moreira Alves","sigla":"MMA","categoria":11007,"proprio":"Maria Manuela","apelido":"Alves","estado":"NA"}
+,{"nr":900390,"nome":"José Marques","sigla":"JM","categoria":19999,"proprio":"José","apelido":"Marques","estado":"NA"}
+,{"nr":900400,"nome":"Sérgio Paulo Ferreira Matos","sigla":"SPM","categoria":19999,"proprio":"Sérgio","apelido":"Matos","estado":"NA"}
+,{"nr":900410,"nome":"Olívia Maria Ferreira Gonçalves Figueiredo","sigla":"OMF","categoria":19999,"proprio":"Olívia","apelido":"Figueiredo","estado":"NA"}
+,{"nr":900420,"nome":"Cândida Fernanda Antunes Ribeiro","sigla":"CFAR","categoria":19999,"proprio":"Fernanda","apelido":"Ribeiro","estado":"NA"}
+,{"nr":900430,"nome":"António Manuel Barros Cardoso","sigla":"ABC","categoria":19999,"proprio":"António","apelido":"Cardoso","estado":"NA"}
+,{"nr":900460,"nome":"João Alberto Cardoso Gomes Pinto","sigla":"JAP","categoria":19999,"proprio":"João Alberto","apelido":"Pinto","estado":"NA"}
+,{"nr":900560,"nome":"Helder Teixeira Gomes","sigla":"HTG","categoria":11002,"proprio":"Helder","apelido":"Gomes","estado":"NA"}
+,{"nr":900650,"nome":"Fernando Jorge de Sousa Braga","sigla":"FSB","categoria":19995,"proprio":"Fernando","apelido":"Braga","estado":"NA"}
+,{"nr":900730,"nome":"Inês Sofia Pereira da Silva da Fonseca Freitas","sigla":"IFF","categoria":11007,"proprio":"Inês Sofia","apelido":"Freitas","estado":"NA"}
+,{"nr":900890,"nome":"Cristina Paula Pereira da Cunha Rodrigues Oliveira","sigla":"CPR","categoria":11005,"proprio":"Cristina Paula","apelido":"Rodrigues","estado":"NA"}
+,{"nr":901030,"nome":"Carlos Alberto Rodrigues e Silva","sigla":"CRS","categoria":11007,"proprio":"Carlos","apelido":"Silva","estado":"NA"}
+,{"nr":901260,"nome":"Jorge Manuel Mendes Moutinho da Silva","sigla":"JMS","categoria":11007,"proprio":"Jorge","apelido":"Moutinho da Silva","estado":"NA"}
+,{"nr":901400,"nome":"Jorge Manuel Resende Vieira Facão","sigla":"JVF","categoria":11002,"proprio":"Jorge","apelido":"Facão","estado":"NA"}
+,{"nr":901840,"nome":"Carlos André da Silva Jesus Monteiro","sigla":"CASJM","categoria":11005,"proprio":"Carlos André","apelido":"Monteiro","estado":"NA"}
+,{"nr":901970,"nome":"Elvira Maria Sousa Silva","sigla":"EMS","categoria":19999,"proprio":"Elvira Maria","apelido":"Silva","estado":"NA"}
+,{"nr":901980,"nome":"António Abílio Garrido da Cunha Brandão","sigla":"AAB","categoria":19999,"proprio":"António","apelido":"Cunha Brandão","estado":"NA"}
+,{"nr":902000,"nome":"Maria Nazaré Coelho Marques Pinheiro","sigla":"MNP","categoria":19999,"proprio":"Maria Nazaré","apelido":"Pinheiro","estado":"NA"}
+,{"nr":902010,"nome":"Dirk Gerard Celina Robert Loyens","sigla":"DRL","categoria":19995,"proprio":"Dirk","apelido":"Loyens","estado":"NA"}
+,{"nr":902070,"nome":"Paulo Jorge Mota de Pinho Gomes","sigla":"PPG","categoria":19999,"proprio":"Paulo","apelido":"Pinho Gomes","estado":"NA"}
+,{"nr":902080,"nome":"Margarida Maria Araújo de Brito","sigla":"MAB","categoria":19999,"proprio":"Margarida","apelido":"Araújo de Brito","estado":"NA"}
+,{"nr":902110,"nome":"Pedro Miguel Guimarães Pires Moreira","sigla":"pmgpm","categoria":11002,"proprio":"Pedro","apelido":"Moreira","estado":"NA"}
+,{"nr":902180,"nome":"Jorge Gustavo Paupério Ribeirinho Machado","sigla":"JRM","categoria":11005,"proprio":"Jorge","apelido":"Ribeirinho Machado","estado":"NA"}
+,{"nr":902660,"nome":"Paula Alexandra Pinho da Costa","sigla":"PAPC","categoria":309,"proprio":"Paula","apelido":"Costa","estado":"NA"}
+,{"nr":902690,"nome":"Vasco Sérgio Correia Freitas Silva","sigla":"VSCFS","categoria":11005,"proprio":"Vasco","apelido":"Freitas Silva","estado":"NA"}
+,{"nr":902800,"nome":"Maria Antónia Pinto Ponce Leão Frey Ramos","sigla":"MAR","categoria":19999,"proprio":"Maria Antónia","apelido":"Ramos","estado":"NA"}
+,{"nr":902820,"nome":"Maria Manuela de Romero e Silva Alves Lopes dos Santos","sigla":"MMRSALS","categoria":19999,"proprio":"Maria Manuela","apelido":"Santos","estado":"NA"}
+,{"nr":902840,"nome":"José Manuel Torres Farinha","sigla":"JTF","categoria":19999,"proprio":"José","apelido":"Farinha","estado":"NA"}
+,{"nr":903030,"nome":"António Manuel Cruz Rocha e Silva","sigla":"AMCRS","categoria":11002,"proprio":"António","apelido":"Rocha e Silva","estado":"NA"}
+,{"nr":903060,"nome":"José Raúl dos Santos de Sá Luís","sigla":"JRSSL","categoria":11005,"proprio":"José","apelido":"Luís","estado":"NA"}
+,{"nr":903610,"nome":"Antonino de Resende Jorge","sigla":"ARJ","categoria":19995,"proprio":"Antonino","apelido":"Resende Jorge","estado":"NA"}
+,{"nr":903620,"nome":"Mário Pinto","sigla":"MP","categoria":119,"proprio":"Mário","apelido":"Pinto","estado":"NA"}
+,{"nr":903790,"nome":"Luís Manuel Meneses Guimarães de Almeida","sigla":"LMMGA","categoria":19999,"proprio":"Luís","apelido":"Almeida","estado":"NA"}
+,{"nr":903910,"nome":"Nelson Bruno Valente de Sá","sigla":"NBVS","categoria":19999,"proprio":"Nelson","apelido":"Sá","estado":"NA"}
+,{"nr":903930,"nome":"Maria Cristina Barbot Campos e Matos","sigla":"MCBCM","categoria":19999,"proprio":"Maria Cristina","apelido":"Matos","estado":"NA"}
+,{"nr":903990,"nome":"António José Pais Antunes","sigla":"AJPA","categoria":19999,"proprio":"António","apelido":"Pais Antunes","estado":"NA"}
+,{"nr":904110,"nome":"Marco Paulo Lages Parente","sigla":"MPLP","categoria":19995,"proprio":"Marco","apelido":"Parente","estado":"A"}
+,{"nr":904120,"nome":"César Miguel de Almeida Vasques","sigla":"CMAV","categoria":11002,"proprio":"César","apelido":"Vasques","estado":"A"}
+,{"nr":904160,"nome":"Maria Inês Ferreira de Amorim Brandão da Silva","sigla":"MIS","categoria":19999,"proprio":"Maria Inês","apelido":" Silva","estado":"NA"}
+,{"nr":904280,"nome":"Diogo Matos Graça Ayres de Campos","sigla":"DMGAC","categoria":19999,"proprio":"Diogo","apelido":"Campos","estado":"NA"}
+,{"nr":904970,"nome":"Manuel Eduardo Lobão de Sousa Aroso","sigla":"MELSA","categoria":19995,"proprio":"Manuel","apelido":"Aroso","estado":"NA"}
+,{"nr":905050,"nome":"Thomas Daniel Wilson","sigla":"TDW","categoria":19995,"proprio":"Thomas","apelido":"Wilson","estado":"NA"}
+,{"nr":905820,"nome":"Francisco Manuel Moita Araújo","sigla":"FMMA","categoria":19999,"proprio":"Francisco","apelido":"Araújo","estado":"NA"}
+,{"nr":906150,"nome":"António Gonçalves Magalhães","sigla":"AGM","categoria":19995,"proprio":"António","apelido":"Magalhães","estado":"NA"}
+,{"nr":906190,"nome":"Maria Teresa Fidélis Silva","sigla":"MTFS","categoria":19999,"proprio":"Maria Teresa","apelido":"Silva","estado":"NA"}
+,{"nr":906450,"nome":"Maria Manuela Costa Neves Figueiredo","sigla":"MMCNF","categoria":19999,"proprio":"Maria Manuela","apelido":"Figueiredo","estado":"NA"}
+,{"nr":906650,"nome":"Gonçalo Manuel Fernandes Perestrelo","sigla":"GMFP","categoria":19995,"proprio":"Gonçalo","apelido":"Perestrelo","estado":"NA"}
+,{"nr":906670,"nome":"Maria Paula Sarmento","sigla":"MPS","categoria":19999,"proprio":"Paula","apelido":"Sarmento","estado":"NA"}
+,{"nr":906700,"nome":"Eurico Cirne de Lima Basto","sigla":"ECB","categoria":19999,"proprio":"Eurico","apelido":"Basto","estado":"NA"}
+,{"nr":906710,"nome":"Joaquina Barrulas","sigla":"JB","categoria":19999,"proprio":"Joaquina","apelido":"Barrulas","estado":"NA"}
+,{"nr":906720,"nome":"Tom Wilson","sigla":"TW","categoria":19999,"proprio":"Tom","apelido":"Wilson","estado":"NA"}
+,{"nr":906730,"nome":"David  Kelvin Allen","sigla":"DA","categoria":19999,"proprio":"David","apelido":"Allen","estado":"NA"}
+,{"nr":906740,"nome":"João Labescat","sigla":"JL","categoria":19995,"proprio":"João","apelido":"Labescat","estado":"NA"}
+,{"nr":906750,"nome":"Peter Willett","sigla":"PW","categoria":19999,"proprio":"Peter","apelido":"Willett","estado":"NA"}
+,{"nr":906760,"nome":"Leonor Vasconcelos Ferreira","sigla":"LVF","categoria":19999,"proprio":"Leonor","apelido":"Ferreira","estado":"NA"}
+,{"nr":906770,"nome":"Jorge Miguel Velho Prior","sigla":"JP","categoria":11007,"proprio":"Jorge","apelido":"Prior","estado":"NA"}
+,{"nr":906790,"nome":"Paulo Alexandre Fonseca Herbert Ribeiro","sigla":"PHR","categoria":11002,"proprio":"Paulo","apelido":"Herbert","estado":"NA"}
+,{"nr":906800,"nome":"John Bernard Ross","sigla":"JBR","categoria":19999,"proprio":"John","apelido":"Ross","estado":"NA"}
+,{"nr":906810,"nome":"Rui Manuel Silva Lamas José","sigla":"RMJ","categoria":19999,"proprio":"Rui","apelido":"José","estado":"NA"}
+,{"nr":906830,"nome":"Teresa Seixas","sigla":"TS","categoria":19999,"proprio":"Teresa","apelido":"Seixas","estado":"NA"}
+,{"nr":906840,"nome":"Maria da Alegria Gomes da Rocha Lopes Feio","sigla":"MAF","categoria":19999,"proprio":"Maria da Alegria","apelido":"Feio","estado":"NA"}
+,{"nr":906850,"nome":"Maria Pia de Melo Alvim Ferraz","sigla":"MPF","categoria":11007,"proprio":"Maria","apelido":"Pia Ferraz","estado":"NA"}
+,{"nr":906870,"nome":"Raquel Filipa Amaral Chambre Meneses Soares","sigla":"RM","categoria":19999,"proprio":"Raquel","apelido":"Meneses","estado":"NA"}
+,{"nr":906890,"nome":"José Carlos Pedro","sigla":"JCP","categoria":19999,"proprio":"José","apelido":"Pedro","estado":"NA"}
+,{"nr":906900,"nome":"José Veiga Pereira","sigla":"JVP","categoria":19999,"proprio":"José","apelido":"Pereira","estado":"NA"}
+,{"nr":906920,"nome":"Benjamim de Sousa","sigla":"BS","categoria":19999,"proprio":"Benjamim","apelido":"Sousa","estado":"NA"}
+,{"nr":906930,"nome":"Mark  Andrew Sanderson","sigla":"MS","categoria":19995,"proprio":"Mark","apelido":"Sanderson","estado":"NA"}
+,{"nr":906940,"nome":"Nuno Portas","sigla":"NP","categoria":19999,"proprio":"Nuno","apelido":"Portas","estado":"NA"}
+,{"nr":906950,"nome":"Álvaro Domingues","sigla":"AD","categoria":19999,"proprio":"Álvaro","apelido":"Domingues","estado":"NA"}
+,{"nr":906960,"nome":"Rosa Pires","sigla":"RP","categoria":19999,"proprio":"Rosa","apelido":"Pires","estado":"NA"}
+,{"nr":906970,"nome":"Eduardo Jorge Seabra Lage","sigla":"EJSL","categoria":19999,"proprio":"Eduardo","apelido":"Lage","estado":"NA"}
+,{"nr":906980,"nome":"José António Matos Silva Duarte","sigla":"JSD","categoria":19999,"proprio":"José","apelido":"Duarte","estado":"NA"}
+,{"nr":906990,"nome":"Isabel Salgado Labouriau","sigla":"ISL","categoria":19999,"proprio":"Isabel","apelido":"Labouriau","estado":"NA"}
+,{"nr":907000,"nome":"José Miguel do Carmo Nunes da Silva","sigla":"JNS","categoria":19999,"proprio":"José","apelido":"Silva","estado":"NA"}
+,{"nr":907010,"nome":"António Luís Ferreia","sigla":"ALF","categoria":19999,"proprio":"António","apelido":"Ferreira","estado":"NA"}
+,{"nr":907020,"nome":"Augusto Silveira Rofrigues","sigla":"ASR","categoria":19999,"proprio":"Augusto","apelido":"Rodrigues","estado":"NA"}
+,{"nr":907040,"nome":"Maria Eduarda Augusta da Silva","sigla":"ES","categoria":19999,"proprio":"Eduarda","apelido":"Silva","estado":"NA"}
+,{"nr":907050,"nome":"Pierre Adler","sigla":"PA","categoria":19999,"proprio":"Pierre","apelido":"Adler","estado":"NA"}
+,{"nr":907060,"nome":"António Carvalho Pedrosa","sigla":"ACP","categoria":19999,"proprio":"António","apelido":"Pedrosa","estado":"NA"}
+,{"nr":907090,"nome":"Mário Florido","sigla":"MF","categoria":19999,"proprio":"Mário","apelido":"Florido","estado":"NA"}
+,{"nr":907100,"nome":"José Paulo Leal","sigla":"JPL","categoria":19999,"proprio":"José","apelido":"Leal","estado":"NA"}
+,{"nr":907110,"nome":"Fernando Silva","sigla":"FS","categoria":19999,"proprio":"Fernando","apelido":"Silva","estado":"NA"}
+,{"nr":907120,"nome":"Luís Manuel Guerreiro Alves Arroja","sigla":"LAA","categoria":19999,"proprio":"Luís","apelido":"Arroja","estado":"NA"}
+,{"nr":907140,"nome":"António Modesto da Conceição Nunes","sigla":"AMN","categoria":19999,"proprio":"António","apelido":"Modesto Nunes","estado":"NA"}
+,{"nr":907300,"nome":"José Alberto Gonçalves","sigla":"JAG","categoria":19999,"proprio":"José","apelido":"Gonçalves","estado":"NA"}
+,{"nr":907350,"nome":"Luís Picado dos Santos","sigla":"LPS","categoria":19999,"proprio":"Luís","apelido":"Santos","estado":"NA"}
+,{"nr":907400,"nome":"Júlio César Machado Viana","sigla":"JV","categoria":19999,"proprio":"Júlio","apelido":"Viana","estado":"NA"}
+,{"nr":907410,"nome":"Luís Leal Lemos","sigla":"LLL","categoria":19999,"proprio":"Luís","apelido":"Lemos","estado":"NA"}
+,{"nr":907420,"nome":"António Manuel Laranjeira Gomes Coelho","sigla":"AGC","categoria":19999,"proprio":"António","apelido":"Coelho","estado":"NA"}
+,{"nr":907430,"nome":"Paulo Lopes Pinto","sigla":"PLP","categoria":19999,"proprio":"Paulo","apelido":"Pinto","estado":"NA"}
+,{"nr":907440,"nome":"Alberto Garrido","sigla":"AG","categoria":19999,"proprio":"Alberto","apelido":"Garrido","estado":"NA"}
+,{"nr":907450,"nome":"Jorge Almeida e Sousa","sigla":"JAS","categoria":19999,"proprio":"Jorge","apelido":"Sousa","estado":"NA"}
+,{"nr":907460,"nome":"Pedro Sêco e Pinto","sigla":"PSP","categoria":19999,"proprio":"Pedro","apelido":"Pinto","estado":"NA"}
+,{"nr":907480,"nome":"Carlos Alberto Ferreira de Sousa Oliveira","sigla":"CSO","categoria":19999,"proprio":"Carlos","apelido":"Oliveira","estado":"NA"}
+,{"nr":907490,"nome":"Marieta Valente","sigla":"MV","categoria":19999,"proprio":"Valente","apelido":"Marieta","estado":"NA"}
+,{"nr":907500,"nome":"João Francisco Montenegro Andrade Lima Bernardes","sigla":"JB","categoria":19999,"proprio":"João","apelido":"Bernardes","estado":"NA"}
+,{"nr":907510,"nome":"Luís Pereira Leite","sigla":"LPL","categoria":19999,"proprio":"Luís","apelido":"Leite","estado":"NA"}
+,{"nr":907520,"nome":"António Martins da Silva","sigla":"MS","categoria":19999,"proprio":"António","apelido":"Silva","estado":"NA"}
+,{"nr":907530,"nome":"José Rodrigues Nunes","sigla":"JRN","categoria":19999,"proprio":"José","apelido":"Nunes","estado":"NA"}
+,{"nr":907540,"nome":"José Ribeiro Silva","sigla":"JRS","categoria":19999,"proprio":"José","apelido":"Silva","estado":"NA"}
+,{"nr":907550,"nome":"António Saraiva","sigla":"AS","categoria":19999,"proprio":"António","apelido":"Saraiva","estado":"NA"}
+,{"nr":907560,"nome":"Rogério Serapião  Martins Aguiar Branco","sigla":"RB","categoria":19999,"proprio":"Rogério","apelido":"Branco","estado":"NA"}
+,{"nr":907570,"nome":"Francisco José Miranda Rodrigues Cruz","sigla":"FC","categoria":19999,"proprio":"Francisco","apelido":"Cruz","estado":"NA"}
+,{"nr":907580,"nome":"Luís Manuel Alvim Serra","sigla":"LAS","categoria":19999,"proprio":"Luís","apelido":"Serra","estado":"NA"}
+,{"nr":907590,"nome":"Cassiano Pena Abreu e Lima","sigla":"CAL","categoria":19999,"proprio":"Cassiano","apelido":"Lima","estado":"NA"}
+,{"nr":907600,"nome":"José Artur Ferreira da Silva e Vale Serrano","sigla":"AS","categoria":19999,"proprio":"Artur","apelido":"Serrano","estado":"NA"}
+,{"nr":907610,"nome":"João Paulo Trigueiros da Silva Cunha","sigla":"JPC","categoria":19999,"proprio":"João","apelido":"Cunha","estado":"NA"}
+,{"nr":907620,"nome":"Mário António Seixas Alegria Teixeira","sigla":"MS","categoria":19999,"proprio":"Mário","apelido":"Seixas","estado":"NA"}
+,{"nr":907630,"nome":"Nuno Lídio Pinto Rodrigues Grande","sigla":"NG","categoria":19999,"proprio":"Nuno","apelido":"Grande","estado":"NA"}
+,{"nr":907640,"nome":"Altamiro Manuel Rodrigues da Costa Pereira","sigla":"ACP","categoria":19999,"proprio":"Altamiro","apelido":"Pereira","estado":"NA"}
+,{"nr":907650,"nome":"Carlos Pinhão","sigla":"CP","categoria":19999,"proprio":"Carlos","apelido":"Pinhão","estado":"NA"}
+,{"nr":907660,"nome":"Maria Madalena Ramos","sigla":"MMR","categoria":19999,"proprio":"Madalena","apelido":"Ramos","estado":"NA"}
+,{"nr":907670,"nome":"Carlos Pinto dos Santos","sigla":"CPS","categoria":19999,"proprio":"Carlos","apelido":"Santos","estado":"NA"}
+,{"nr":907680,"nome":"José Carlos Reis","sigla":"JCR","categoria":19999,"proprio":"José","apelido":"Reis","estado":"NA"}
+,{"nr":907700,"nome":"José Alberto Rafael","sigla":"JAR","categoria":19999,"proprio":"José","apelido":"Rafael","estado":"NA"}
+,{"nr":907720,"nome":"Abel Vitorino Trigo Cabral","sigla":"TC","categoria":19999,"proprio":"Abel","apelido":"Trigo Cabral","estado":"A"}
+,{"nr":907730,"nome":"João Paulo Vilas Boas Soares Campos","sigla":"JVBC","categoria":19999,"proprio":"João","apelido":"Vilas Boas Campos","estado":"NA"}
+,{"nr":907740,"nome":"Eduardo Jorge Herrero","sigla":"EJH","categoria":19999,"proprio":"Eduardo","apelido":"Herrero","estado":"NA"}
+,{"nr":907750,"nome":"Álvaro Jorge da Maia Sêco","sigla":"AMS","categoria":19999,"proprio":"Álvaro","apelido":"Sêco","estado":"NA"}
+,{"nr":907760,"nome":"Emílio Fernando Brogueira Dias","sigla":"EBD","categoria":19995,"proprio":"Emílio","apelido":"Brogueira Dias","estado":"NA"}
+,{"nr":907770,"nome":"João Manuel Martins Casaca","sigla":"JMMC1","categoria":19995,"proprio":"João Manuel","apelido":"Casaca","estado":"NA"}
+,{"nr":907780,"nome":"Manuel  António Fernandes da Graça","sigla":"MLG","categoria":19995,"proprio":"Manuel","apelido":"Graça","estado":"NA"}
+,{"nr":907800,"nome":"Isabel Pinto","sigla":"IP","categoria":19999,"proprio":"Isabel","apelido":"Pinto","estado":"NA"}
+,{"nr":907810,"nome":"Manuel Luís Guimarães","sigla":"MLG","categoria":19999,"proprio":"Manuel","apelido":"Guimarães","estado":"NA"}
+,{"nr":907850,"nome":"Artur Rosa Pires","sigla":"ARP","categoria":19999,"proprio":"Artur","apelido":"Pires","estado":"NA"}
+,{"nr":907860,"nome":"Rui Brás Afonso","sigla":"RBA","categoria":19999,"proprio":"Rui","apelido":"Afonso","estado":"NA"}
+,{"nr":907870,"nome":"M. Fernandes de Sá","sigla":"MFS","categoria":19999,"proprio":"Fernandes","apelido":"Sá","estado":"NA"}
+,{"nr":907880,"nome":"Henrique Malheiro Vaz","sigla":"HMV","categoria":19999,"proprio":"Henrique","apelido":"Vaz","estado":"NA"}
+,{"nr":907890,"nome":"José Alberto Azevedo Correia","sigla":"JAC","categoria":19999,"proprio":"José Alberto","apelido":"Correia","estado":"NA"}
+,{"nr":907910,"nome":"Maria Elisa Cerveira","sigla":"MEC","categoria":19999,"proprio":"Elisa","apelido":"Cerveira","estado":"NA"}
+,{"nr":907920,"nome":"Zita da Conceição Cordeiro Pereira Correia","sigla":"ZPC","categoria":19995,"proprio":"Zita","apelido":"Correia","estado":"NA"}
+,{"nr":907930,"nome":"Cidália Queirós","sigla":"CQ","categoria":19999,"proprio":"Cidália","apelido":"Queirós","estado":"NA"}
+,{"nr":907940,"nome":"Manuel Loff","sigla":"ML","categoria":19999,"proprio":"Manuel","apelido":"Loff","estado":"NA"}
+,{"nr":907950,"nome":"António Francisco de Sousa","sigla":"AFS","categoria":19999,"proprio":"António","apelido":"Sousa","estado":"NA"}
+,{"nr":907960,"nome":"Helena Rangel","sigla":"HR","categoria":19999,"proprio":"Helena","apelido":"Rangel","estado":"NA"}
+,{"nr":907970,"nome":"José Maciel Honrado dos Santos","sigla":"JHS","categoria":19999,"proprio":"José Maciel","apelido":" Santos","estado":"NA"}
+,{"nr":907980,"nome":"Pedro Gaspar Moradas Ferreira","sigla":"PMF","categoria":19999,"proprio":"Pedro","apelido":"Moradas Ferreira","estado":"NA"}
+,{"nr":908050,"nome":"Mário Abel dos Santos Moura","sigla":"MAM","proprio":"Mário","apelido":"Moura","estado":"NA"}
+,{"nr":908060,"nome":"Adriano Joaquim Carvalho Barbosa Nazareth","sigla":"AJN","categoria":19999,"proprio":"Adriano","apelido":"Nazareth","estado":"NA"}
+,{"nr":908070,"nome":"Joao Carlos Paiva","sigla":"PCP","categoria":19999,"proprio":"João","apelido":"Paiva","estado":"NA"}
+,{"nr":908080,"nome":"Edgardo Daniel Castronuovo","sigla":"EC","categoria":19995,"proprio":"Edgardo","apelido":"Castronuovo","estado":"NA"}
+,{"nr":908090,"nome":"António Júlio Afonso de Vasconcelos","sigla":"AJV","categoria":117,"proprio":"António","apelido":"Júlio Vasconcelos","estado":"NA"}
+,{"nr":908100,"nome":"Armínio de Almeida Teixeira","sigla":"AAT","categoria":565,"proprio":"Armínio","apelido":"Teixeira","estado":"NA"}
+,{"nr":908130,"nome":"Jesús Torres Pombo","sigla":"JTP","categoria":19995,"proprio":"Jesús","apelido":"Pombo","estado":"NA"}
+,{"nr":908150,"nome":"Filipe Humberto Faria Campelo","sigla":"FHFC","categoria":19995,"proprio":"Filipe","apelido":"Campelo","estado":"NA"}
+,{"nr":908270,"nome":"Abílio de Jesus Monteiro Almeida","sigla":"AJMA","categoria":19999,"proprio":"Abílio ","apelido":"Almeida","estado":"NA"}
+,{"nr":908290,"nome":"José Manuel Miguez Araújo","sigla":"JMMA","categoria":19999,"proprio":"José","apelido":"Miguez Araújo","estado":"NA"}
+,{"nr":908570,"nome":"Maria Isabel Coutinho Vieira","sigla":"MICV","categoria":19999,"proprio":"Maria Isabel","apelido":"Vieira","estado":"NA"}
+,{"nr":908730,"nome":"João Fernando de Magalhães Lemos","sigla":"JFML","categoria":19995,"proprio":"João","apelido":"Lemos","estado":"NA"}
+,{"nr":908940,"nome":"Maria Manuela de Castro e Silva Ferreira","sigla":"MMCSF","categoria":19999,"proprio":"Manuela","apelido":"Castro Ferreira","estado":"NA"}
+,{"nr":909120,"nome":"João Armando Lobo de Sousa Couto","sigla":"JALSC","categoria":19999,"proprio":"João","apelido":"Sousa Couto","estado":"NA"}
+,{"nr":909160,"nome":"João Pedro de Campos Guimarães","sigla":"JPCG","categoria":19995,"proprio":"João","apelido":"Guimarães","estado":"NA"}
+,{"nr":909300,"nome":"Ariel Ricardo Negrão da Silva  Guerreiro","sigla":"AG","categoria":19999,"proprio":"Ariel","apelido":"Guerreiro","estado":"NA"}
+,{"nr":909330,"nome":"Nuno Filipe da Cunha Nogueira","sigla":"NFCN","categoria":19995,"proprio":"Nuno","apelido":"Nogueira","estado":"NA"}
+,{"nr":909370,"nome":"Álvaro Pedro de Barros Borges Reis Figueira","sigla":"PBBRF","categoria":19999,"proprio":"Álvaro","apelido":"Figueira","estado":"NA"}
+,{"nr":909390,"nome":"Rui Pedro Bandeira Guedes de Azevedo","sigla":"RPBGA","categoria":19999,"proprio":"Rui Pedro","apelido":"Azevedo","estado":"NA"}
+,{"nr":909440,"nome":"Diana Catarino Neves Viegas","sigla":"DCNV","categoria":19995,"proprio":"Diana","apelido":"Viegas","estado":"NA"}
+,{"nr":909460,"nome":"Miguel Augusto Vigário de Figueiredo","sigla":"MVF","categoria":120,"proprio":"Miguel","apelido":"Vigário Figueiredo","estado":"NA"}
+,{"nr":909660,"nome":"Maria Madalena Santos Fernandes Palma Ramos","sigla":"MMSFPR","categoria":19995,"proprio":"Maria","apelido":"Madalena Ramos","estado":"NA"}
+,{"nr":909700,"nome":"António Lacerda","sigla":"AL","categoria":19999,"proprio":"António ","apelido":"Lacerda","estado":"NA"}
+,{"nr":909720,"nome":"Ana Maria Rodrigues Monteiro Sousa","sigla":"AMRMS","categoria":19999,"proprio":"Ana ","apelido":"Monteiro","estado":"NA"}
+,{"nr":909950,"nome":"Augusto da Silveira Rodrigues","sigla":"ASR","categoria":19999,"proprio":"Augusto","apelido":"Rodrigues","estado":"NA"}
+,{"nr":909990,"nome":"Ana Maria Gomes Gonçalves Azevedo","sigla":"AMA","categoria":117,"proprio":"Ana","apelido":"Azevedo","estado":"NA"}
+,{"nr":910010,"nome":"Helder Manuel Paiva Rebelo Cerejo Crespo","sigla":"HMPRCC","categoria":19999,"proprio":"Helder","apelido":"Crespo","estado":"NA"}
+,{"nr":910310,"nome":"José Manuel da Silva Bártolo","sigla":"JMSB","categoria":19995,"proprio":"José","apelido":"Bártolo","estado":"NA"}
+,{"nr":910320,"nome":"Inês Ribeiro Pereira Miranda Rodrigues Souto e Castro","sigla":"IRPMRSC","categoria":19995,"proprio":"Inês","apelido":"Castro","estado":"NA"}
+,{"nr":910580,"nome":"Luís Filipe Teles Gomes da Costa","sigla":"LFTGC","categoria":19995,"proprio":"Luís","apelido":"Costa","estado":"NA"}
+,{"nr":910690,"nome":"José Eduardo Ferreira Leal","sigla":"JEFL","categoria":19995,"proprio":"José","apelido":"Leal","estado":"NA"}
+,{"nr":911038,"nome":"Rui Pedro Miranda Azinheira Silva Freire","sigla":"RSF","categoria":19995,"proprio":"Rui","apelido":"Freire","estado":"NA"}
+,{"nr":911043,"nome":"Vasco  Hugo Vinhas Gonçalves Moreira","sigla":"VVM","categoria":19997,"proprio":"Vasco","apelido":"Vinhas","estado":"NA"}
+,{"nr":911071,"nome":"Maria Margarida da Fonseca e Castro Cardoso","sigla":"MMC","categoria":19999,"proprio":"Margarida","apelido":"Cardoso","estado":"NA"}
+,{"nr":911072,"nome":"Maria Ivette Leal de Carvalho Gomes","sigla":"MIG","categoria":19999,"proprio":"Ivette","apelido":"Gomes","estado":"NA"}
+,{"nr":911080,"nome":"Daniel Augusto Gama de Castro Silva","sigla":"D","categoria":19997,"proprio":"Daniel","apelido":"Silva","estado":"NA"}
+,{"nr":970300,"nome":"Pedro Manuel Cardoso Teixeira","sigla":"PMCT","categoria":19997,"proprio":"Pedro","apelido":"Teixeira","estado":"A"}
+,{"nr":247429,"nome":"João Manuel Ribeiro da Silva Tavares","sigla":"JST","categoria":110,"proprio":"João","apelido":"Tavares","estado":"A"}
+]

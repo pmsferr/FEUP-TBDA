@@ -1,0 +1,10 @@
+{
+    "mongodb" : {
+        "host" : "<host address here>",
+        "port" : "<host port here>",
+        "username" : "<login username, leave empty '' if not using authentication>",
+        "password" : "<login password, leave empty '' if not using authentication>",
+        "authDB" : "<authentication database, leave empty '' if not using authentication>",
+        "database" : "<Database to be used>"
+    }
+}

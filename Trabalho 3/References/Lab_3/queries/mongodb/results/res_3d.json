@@ -1,0 +1,30 @@
+{ 
+    "_id" : "cinema", 
+    "Designation" : "Lisboa", 
+    "Max_value" : 96.0
+}
+{ 
+    "_id" : "circo", 
+    "Designation" : "Lisboa", 
+    "Max_value" : 2.0
+}
+{ 
+    "_id" : "dança", 
+    "Designation" : "Lisboa", 
+    "Max_value" : 47.0
+}
+{ 
+    "_id" : "música", 
+    "Designation" : "Lisboa", 
+    "Max_value" : 77.0
+}
+{ 
+    "_id" : "tauromaquia", 
+    "Designation" : "Moura", 
+    "Max_value" : 4.0
+}
+{ 
+    "_id" : "teatro", 
+    "Designation" : "Lisboa", 
+    "Max_value" : 66.0
+}

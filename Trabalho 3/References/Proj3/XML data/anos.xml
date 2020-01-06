@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/anos_mongo_inserts.xsl"?>
+<anos>
+	<ano>1970</ano>
+	<ano>1972</ano>
+	<ano>1974</ano>
+	<ano>1975</ano>
+	<ano>1976</ano>
+	<ano>1977</ano>
+	<ano>1978</ano>
+	<ano>1979</ano>
+	<ano>1980</ano>
+	<ano>1981</ano>
+	<ano>1982</ano>
+	<ano>1983</ano>
+	<ano>1984</ano>
+	<ano>1985</ano>
+	<ano>1986</ano>
+	<ano>1987</ano>
+	<ano>1988</ano>
+	<ano>1989</ano>
+	<ano>1990</ano>
+	<ano>1991</ano>
+	<ano>1992</ano>
+	<ano>1993</ano>
+	<ano>1994</ano>
+	<ano>1995</ano>
+	<ano>1996</ano>
+	<ano>1997</ano>
+	<ano>1998</ano>
+	<ano>1999</ano>
+	<ano>2000</ano>
+	<ano>2001</ano>
+	<ano>2002</ano>
+</anos>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/cursos_mongo_inserts.xsl"?>
+<lics>
+	<lic>
+		<cod>649</cod>
+		<sigla>EMG</sigla>
+		<nome>Engenharia de Minas e Geoambiente</nome>
+	</lic>
+
+	<lic>
+		<cod>255</cod>
+		<sigla>EEC</sigla>
+		<nome>Engenharia Electrotécnica e de Computadores</nome>
+	</lic>
+
+	<lic>
+		<cod>304</cod>
+		<sigla>EM</sigla>
+		<nome>Engenharia Mecânica</nome>
+	</lic>
+
+	<lic>
+		<cod>331</cod>
+		<sigla>EQ</sigla>
+		<nome>Engenharia Quimica</nome>
+	</lic>
+
+	<lic>
+		<cod>318</cod>
+		<sigla>EMI</sigla>
+		<nome>Engenharia de Minas</nome>
+	</lic>
+
+	<lic>
+		<cod>433</cod>
+		<sigla>GEI</sigla>
+		<nome>Gestão e Engenharia Industrial</nome>
+	</lic>
+
+	<lic>
+		<cod>315</cod>
+		<sigla>EMM</sigla>
+		<nome>Engenharia Metalúrgica e de Materiais</nome>
+	</lic>
+
+	<lic>
+		<cod>233</cod>
+		<sigla>EC</sigla>
+		<nome>Engenharia Civil</nome>
+	</lic>
+
+	<lic>
+		<cod>312</cod>
+		<sigla>EMT</sigla>
+		<nome>Engenharia Metalúrgica</nome>
+	</lic>
+
+	<lic>
+		<cod>275</cod>
+		<sigla>EIC</sigla>
+		<nome>Engenharia Informática e Computação</nome>
+	</lic>
+
+	<lic>
+		<cod>1093</cod>
+		<sigla>CI</sigla>
+		<nome>Ciência da Informação</nome>
+	</lic>
+</lics>
