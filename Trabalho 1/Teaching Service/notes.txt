@@ -1,0 +1,9 @@
+https://blogs.oracle.com/sql/how-to-create-and-use-indexes-in-oracle-database
+
+http://www.dba-oracle.com/t_difference_between_btree_and_bitmap_index.htm
+
+https://docs.oracle.com/cd/E11882_01/server.112/e40540/indexiot.htm#CNCPT1170
+
+------------------------------
+
+https://stackoverflow.com/questions/15977126/select-rows-that-match-all-items-in-a-list
